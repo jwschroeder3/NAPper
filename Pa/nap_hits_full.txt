@@ -1,0 +1,56 @@
+uniprot_id	protein	gene	refseq	control_average_tpm.txt	stat_average_tpm.txt
+Q06553	HTH-type transcriptional regulator PrtR (Pyocin repressor protein)	prtR	NP_249302.1;WP_003113202.1;	95.0262	25.6871
+P55222	cAMP-activated global transcriptional regulator Vfr	vfr	NP_249343.1;WP_003085214.1;	503.767	196.495
+Q51425	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)	ruvA	NP_249657.1;WP_003086122.1;	108.508	32.0443
+P25084	Transcriptional activator protein LasR	lasR	NP_250121.1;WP_003082999.1;	625.746	754.146
+Q51472	Integration host factor subunit alpha (IHF-alpha)	ihfA	NP_251428.1;WP_003090661.1;	2200.99	2044.74
+P95412	Siroheme decarboxylase NirD subunit (EC 4.1.1.111)	nirD	NP_249206.1;WP_003084864.1;	226.333	4.15869
+Q51423	Transcriptional regulatory protein PmpR	pmpR	NP_249655.1;WP_003086107.1;	172.801	57.0889
+P95459	Major cold shock protein CspA	cspA	NP_251956.1;WP_003115568.1;	7205.95	1253.29
+G3XCY4	Transcription factor AmrZ (Alginate and motility regulator Z)	amrZ	NP_252075.1;WP_003091802.1;	7694.66	13153.9
+Q9I1M3	Bkd operon transcriptional regulator	bkdR	NP_250936.1;WP_003089245.1;	72.391	64.1177
+P15276	Transcriptional regulatory protein AlgP (Alginate regulatory protein AlgR3)	algP	NP_253940.1;WP_003115263.1;	261.11	124.243
+Q9HTL0	DNA-binding protein HU-alpha	hupA	NP_254035.1;WP_003096630.1;	2790.19	2010.57
+P05384	DNA-binding protein HU-beta	hupB	NP_250495.1;WP_003087931.1;	37267.6	8332.75
+P26275	Positive alginate biosynthesis regulatory protein	algR	NP_253948.1;WP_003096397.1;	197.737	194.694
+P26993	HTH-type transcriptional regulator ExsA	exsA	NP_250404.1;WP_003120334.1;	91.6791	21.1218
+Q51473	Integration host factor subunit beta (IHF-beta)	ihfB	NP_251851.1;WP_003091441.1;	1645.91	1869.72
+Q51373	Response regulator GacA (Global activator)	gacA	NP_251276.1;WP_003090351.1;	296.324	325.179
+Q9I0M3	DNA translocase FtsK	ftsK	NP_251305.1;WP_010895627.1;	104.758	42.0048
+Q9HU78	Histidine utilization repressor	hutC	NP_253792.1;WP_003095970.1;	68.8985	54.9617
+P37452	LexA repressor (EC 3.4.21.88)	lexA	NP_251697.1;WP_003091196.1;	86.5264	35.1655
+Q9HWX1	Transcriptional repressor NrdR	nrdR	NP_252746.1;WP_003107181.1;	131.89	57.8303
+Q51481	Denitrification regulatory protein NirQ	nirQ	NP_249211.1;WP_003113240.1;	586.9	27.767
+Q06552	Transcription regulatory protein PrtN (Pyocin activator protein)	prtN	NP_249301.1;WP_003113203.1;	381.335	151.266
+Q9HYL3	Regulatory protein NosR	nosR	NP_252081.1;WP_004345196.1;	321.138	3.11704
+Q9I3I0	Nucleoid-associated protein PA1533		NP_250224.1;WP_003087236.1;	1225.31	592.977
+Q9I3I7	Probable transcriptional regulator		NP_250217.1;WP_003083350.1;	215.351	164.311
+Q9I233	Probable transcriptional regulator		NP_250772.1;WP_003088777.1;	97.5541	26.8729
+Q9HZW2	Putative repressor of atu genes	atuR	NP_251575.1;WP_003090989.1;	99.0546	64.4711
+Q9I0C4	Probable transcriptional regulator		NP_251408.1;WP_003114388.1;	98.4278	96.0759
+Q9HXW2	Probable transcriptional regulator		NP_252368.1;WP_003092468.1;	84.9251	40.2344
+Q9HVS2	Probable transcriptional regulator		NP_253189.1;WP_003094433.1;	207.949	124.778
+Q9I4Y6	Uncharacterized protein		NP_249674.1;WP_003112565.1;	272.959	376.669
+Q9HX68	Two-component response regulator RocA1	rocA1	NP_252637.1;WP_003106011.1;	173.08	47.3826
+Q9HXV1	Probable transcriptional regulator		NP_252379.1;WP_003103716.1;	100.124	61.7088
+Q9HTK2	Transcriptional regulator GlcC	glcC	NP_254043.1;WP_003115387.1;	112.67	90.634
+Q9HTP6	Leucine-responsive regulatory protein	lrp	NP_253995.1;WP_003096535.1;	240.06099999999998	52.9492
+Q9HZF2	HTH cro/C1-type domain-containing protein		NP_251746.1;WP_003143634.1;	144.389	56.3881
+Q9I4Z7	Probable dna-binding stress protein		NP_249653.1;WP_003086103.1;	2869.41	535.66
+Q9I2T9	Lon protease (EC 3.4.21.53) (ATP-dependent protease La)	lon	NP_250494.1;WP_003087926.1;	211.081	137.304
+Q9HVC1	HTH cro/C1-type domain-containing protein		NP_253363.1;WP_003113527.1;	339.56300000000005	170.744
+Q9HXI7	IscR	iscR	NP_252504.1;WP_003092836.1;	1005.39	552.987
+Q9HTL4	OxyR	oxyR	NP_254031.1;WP_003096622.1;	112.146	40.6991
+Q9HT12	Probable chromosome-partitioning protein ParB	spoOJ	NP_254249.1;WP_003100240.1;	100.566	31.1117
+Q9HTG1	Probable transcriptional regulator		NP_254090.1;WP_003096753.1;	84.0379	20.8755
+Q9HT74	Transcriptional regulator np20	np20	NP_254186.1;WP_003096992.1;	170.06599999999997	89.3967
+Q9HTQ3	Probable transcriptional regulator		NP_253988.1;WP_003096513.1;	369.62699999999995	320.386
+Q9HYY0	Probable transcriptional regulator		NP_251950.1;WP_003114792.1;	259.673	300.619
+Q9HZF3	Uncharacterized protein		NP_251745.1;WP_003115353.1;	121.527	37.9156
+Q9I295	Regulator of liu genes	liuR	NP_250706.1;WP_003100383.1;	278.28700000000003	61.4167
+Q9I0Z8	HTH tetR-type domain-containing protein		NP_251174.1;WP_003113298.1;	154.812	185.9
+Q9I3J3	Probable transcriptional regulator		NP_250211.1;WP_003083340.1;	147.18	65.3603
+Q9HY46	NalD	nalD	NP_252264.1;WP_003092152.1;	88.6094	20.2537
+G3XD78	Regulatory protein RsaL	rsaL	NP_250122.1;WP_003083010.1;	5433.31	5205.5
+Q9HX76	Probable DNA binding protein		NP_252629.1;WP_003093079.1;	4000.12	454.58
+Q9I5F9	Lon protease (EC 3.4.21.53) (ATP-dependent protease La)	lon	NP_249470.1;WP_003101982.1;	104.516	40.7516

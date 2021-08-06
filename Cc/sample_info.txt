@@ -1,0 +1,3 @@
+SRR condition replicate bug
+SRR5772180 "WT glucose 6h" 1 "C. crescentus"
+SRR5772181 "GapR depletion glucose 6h" 1 "C. crescentus"

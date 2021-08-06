@@ -1,0 +1,38 @@
+uniprot_id	protein	gene	refseq	8h_average_tpm.txt
+O34857	Repressor Rok	rok	NP_389307.1;WP_003232378.1;	347.414
+P04831	Small, acid-soluble spore protein A (SASP)	sspA	NP_390835.1;WP_003223491.1;	284.299
+P06533	HTH-type transcriptional regulator SinR	sinR	NP_390341.1;WP_003226345.1;	466.556
+P39814	DNA topoisomerase 1 (EC 5.6.2.1) (DNA topoisomerase I) (Omega-protein) (Relaxing enzyme) (Swivelase) (Untwisting enzyme)	topA	NP_389494.1;WP_003245599.1;	310.051
+P39776	Tyrosine recombinase XerC	xerC	NP_389496.1;WP_003231988.1;	312.166
+P37551	Pur operon repressor	purR	NP_387928.1;WP_003218342.1;	246.668
+O31771	Uncharacterized membrane protein YmfM	ymfM	NP_389573.3;WP_010886511.1;	523.284
+O32067	Uncharacterized HTH-type transcriptional regulator YtzE	ytzE	NP_390880.1;WP_003152337.1;	2395.68
+P24281	Nucleoid-associated protein YaaK	yaaK	NP_387901.1;WP_003225427.1;	423.47
+Q7BVT7	Uncharacterized protein YerC	yerC	NP_388540.1;WP_003219429.1;	303.841
+P39667	Transcription repressor NadR (ORF1)	nadR	NP_390667.2;WP_004398582.1;	355.264
+O34766	SPbeta prophage-derived uncharacterized HTH-type transcriptional regulator YopS	yopS	NP_389960.1;WP_004399410.1;	1262.47
+P06534	Stage 0 sporulation protein A (Stage 0 sporulation protein C) (Stage 0 sporulation protein G)	spo0A	NP_390302.1;WP_003226427.1;	318.596
+P51777	Cold shock protein CspD	cspD	NP_390076.1;WP_003230776.1;	22083.5
+O32253	Central glycolytic genes regulator	cggR	NP_391275.1;WP_009968188.1;	663.452
+P39758	Putative transition state regulator Abh	abh	NP_389331.1;WP_003244728.1;	375.972
+P32081	Cold shock protein CspB (Major cold shock protein)	cspB	NP_388791.1;WP_003224086.1;	20524.4
+O07586	HTH-type transcriptional regulator CueR	cueR	NP_388837.1;WP_010886460.1;	527.46
+P08874	Transition state regulatory protein AbrB	abrB	NP_387918.1;WP_003226760.1;	4392.39
+P39158	Cold shock protein CspC	cspC	NP_388393.1;WP_003234247.1;	5814.64
+P37568	Transcriptional regulator CtsR (Class three stress gene repressor)	ctsR	NP_387964.1;WP_003225724.1;	255.664
+O34835	Transcription factor FapR (Fatty acid and phospholipid biosynthesis regulator)	fapR	NP_389470.1;WP_003232044.1;	323.407
+P13800	Transcriptional regulatory protein DegU (Protease production enhancer protein)	degU	NP_391429.1;WP_003219701.1;	279.126
+P25499	Heat-inducible transcription repressor HrcA	hrcA	NP_390427.1;WP_003246126.1;	395.622
+P96622	Endoribonuclease EndoA (EC 3.1.27.-) (Toxin EndoA) (mRNA interferase EndoA) (mRNA interferase MazF-bs) (MazF-bs)	ndoA	NP_388347.1;WP_003156187.1;	1537.63
+P31080	LexA repressor (EC 3.4.21.88) (SOS regulatory protein DinR)	lexA	NP_389668.1;WP_003238209.1;	304.205
+P54476	Probable endonuclease 4 (EC 3.1.21.2) (Endodeoxyribonuclease IV) (Endonuclease IV)	nfo	NP_390392.1;WP_009967756.1;	250.491
+P54512	HTH-type transcriptional regulator MntR (Manganese transport regulator) (Manganese(II) metalloregulatory protein MntR)	mntR	NP_390332.2;WP_003236923.1;	723.302
+P08821	DNA-binding protein HU 1 (DNA-binding protein II) (HB)	hupA	NP_390160.1;WP_003153447.1;	11904.2
+P37582	HTH-type transcriptional regulator GlnR	glnR	NP_389627.1;WP_003238341.1;	922.424
+O05236	Uncharacterized HTH-type transcriptional regulator YugG	yugG	NP_391019.1;WP_009968070.1;	364.812
+O31761	Uncharacterized HTH-type transcriptional regulator YmfC	ymfC	NP_389563.1;WP_003245732.1;	434.252
+Q45549	Transcriptional repressor NrdR	nrdR	NP_390778.1;WP_003223586.1;	229.772
+Q7WY72	Extracellular matrix regulatory protein A (Regulator of extracellular matrix A)	remA	NP_570902.1;WP_003154355.1;	1088.67
+O07573	HTH-type transcriptional regulator NsrR	nsrR	NP_388819.1;WP_003245378.1;	314.615
+P37524	Nucleoid occlusion protein (Noc)	noc	NP_391979.1;WP_003226829.1;	323.423
+O31417	Uncharacterized HTH-type transcriptional regulator YazB	yazB	NP_387961.1;WP_003226678.1;	421.811

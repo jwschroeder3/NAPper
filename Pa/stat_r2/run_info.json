@@ -1,0 +1,13 @@
+{
+	"n_targets": 5572,
+	"n_bootstraps": 0,
+	"n_processed": 3923381,
+	"n_pseudoaligned": 1861611,
+	"n_unique": 1857573,
+	"p_pseudoaligned": 47.4,
+	"p_unique": 47.3,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Fri Jun 25 01:53:50 2021",
+	"call": "kallisto quant -o stat_r2 -i PA01 -t 12 SRR11998449_1.fastq.gz SRR11998449_2.fastq.gz"
+}

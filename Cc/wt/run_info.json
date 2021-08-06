@@ -1,0 +1,13 @@
+{
+	"n_targets": 3886,
+	"n_bootstraps": 0,
+	"n_processed": 22048775,
+	"n_pseudoaligned": 12564808,
+	"n_unique": 12284093,
+	"p_pseudoaligned": 57.0,
+	"p_unique": 55.7,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Thu Aug  5 15:27:27 2021",
+	"call": "kallisto quant --single -o wt -i na1000 -t 6 -l 200 -s 25 wt_glucose_6h.fastq.gz"
+}

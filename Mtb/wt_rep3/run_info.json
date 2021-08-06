@@ -1,0 +1,13 @@
+{
+	"n_targets": 3906,
+	"n_bootstraps": 0,
+	"n_processed": 10784567,
+	"n_pseudoaligned": 6982427,
+	"n_unique": 6901039,
+	"p_pseudoaligned": 64.7,
+	"p_unique": 64.0,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Thu Aug  5 13:54:51 2021",
+	"call": "kallisto quant --single -o wt_rep3 -i m_tb -t 6 -l 200 -s 25 wt_rep3.fastq.gz"
+}

@@ -1,0 +1,13 @@
+{
+	"n_targets": 4237,
+	"n_bootstraps": 0,
+	"n_processed": 9820655,
+	"n_pseudoaligned": 7038852,
+	"n_unique": 7033435,
+	"p_pseudoaligned": 71.7,
+	"p_unique": 71.6,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Fri Aug  6 13:27:01 2021",
+	"call": "kallisto quant --single -o 8h_rep1 -i bsub_168 -t 6 -l 200 -s 25 SRR8787217.fastq.gz"
+}

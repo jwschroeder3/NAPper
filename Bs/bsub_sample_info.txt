@@ -1,0 +1,9 @@
+SRR	condition	replicate	bug
+SRR8787217	8h	1	B. subtilis
+SRR8787218	8h	2	B. subtilis
+SRR8787219	8h	3	B. subtilis
+SRR8787220	8h	4	B. subtilis
+SRR8787233	24h	1	B. subtilis
+SRR8787234	24h	2	B. subtilis
+SRR8787235	24h	3	B. subtilis
+SRR8787236	24h	4	B. subtilis

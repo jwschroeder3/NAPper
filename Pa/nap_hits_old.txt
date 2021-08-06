@@ -1,0 +1,41 @@
+Q06553 HTH-type transcriptional regulator PrtR (Pyocin repressor protein)
+Q51425 Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+Q51472 Integration host factor subunit alpha (IHF-alpha)
+Q51423 Transcriptional regulatory protein PmpR
+P95459 Major cold shock protein CspA
+G3XCY4 Transcription factor AmrZ (Alginate and motility regulator Z)
+P15276 Transcriptional regulatory protein AlgP (Alginate regulatory protein AlgR3)
+Q9HTL0 DNA-binding protein HU-alpha
+P05384 DNA-binding protein HU-beta
+Q51473 Integration host factor subunit beta (IHF-beta)
+Q51373 Response regulator GacA (Global activator)
+Q9I0M3 DNA translocase FtsK
+Q9HU78 Histidine utilization repressor
+P37452 LexA repressor (EC 3.4.21.88)
+Q9HWX1 Transcriptional repressor NrdR
+Q51481 Denitrification regulatory protein NirQ
+Q06552 Transcription regulatory protein PrtN (Pyocin activator protein)
+Q9HYL3 Regulatory protein NosR
+Q9I3I0 Nucleoid-associated protein PA1533
+Q9I3I7 Probable transcriptional regulator
+Q9HZW2 Putative repressor of atu genes
+Q9I0C4 Probable transcriptional regulator
+Q9HVS2 Probable transcriptional regulator
+Q9I4Y6 Uncharacterized protein
+Q9HX68 Two-component response regulator RocA1
+Q9HXV1 Probable transcriptional regulator
+Q9HTK2 Transcriptional regulator GlcC
+Q9HZF2 HTH cro/C1-type domain-containing protein
+Q9I4Z7 Probable dna-binding stress protein
+Q9HVC1 HTH cro/C1-type domain-containing protein
+Q9HT12 Probable chromosome-partitioning protein ParB
+Q9HTG1 Probable transcriptional regulator
+Q9HT74 Transcriptional regulator np20
+Q9HYY0 Probable transcriptional regulator
+Q9HZF3 Uncharacterized protein
+Q9I295 Regulator of liu genes
+Q9I0Z8 HTH tetR-type domain-containing protein
+Q9I3J3 Probable transcriptional regulator
+Q9HY46 NalD
+G3XD78 Regulatory protein RsaL
+Q9HX76 Probable DNA binding protein

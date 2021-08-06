@@ -1,0 +1,13 @@
+{
+	"n_targets": 3886,
+	"n_bootstraps": 0,
+	"n_processed": 22937619,
+	"n_pseudoaligned": 11666818,
+	"n_unique": 11495785,
+	"p_pseudoaligned": 50.9,
+	"p_unique": 50.1,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Thu Aug  5 15:27:44 2021",
+	"call": "kallisto quant --single -o gapR_dep -i na1000 -t 6 -l 200 -s 25 gapR_dep_glucose_6h.fastq.gz"
+}

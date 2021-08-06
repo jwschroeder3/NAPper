@@ -1,0 +1,13 @@
+{
+	"n_targets": 4302,
+	"n_bootstraps": 0,
+	"n_processed": 22521255,
+	"n_pseudoaligned": 11422184,
+	"n_unique": 11165754,
+	"p_pseudoaligned": 50.7,
+	"p_unique": 49.6,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Mon Jun 28 00:57:29 2021",
+	"call": "kallisto quant -o statphase_R1 -i Ec_mg1655 -t 12 glu_s2_rna_rep1/glu_s2_rna_rep1_R1.fq.gz glu_s2_rna_rep1/glu_s2_rna_rep1_R2.fq.gz"
+}

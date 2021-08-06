@@ -1,0 +1,15 @@
+uniprot_id	protein	gene	refseq	control_average_tpm.txt	stat_average_tpm.txt
+P64389	DNA-binding protein HU-beta	hupB	NP_274254.1;WP_002213508.1;	32170.4	17848.5
+P0A0U2	Integration host factor subunit beta (IHF-beta)	ihfB	NP_274321.1;WP_002213349.1;	1866.77	2283.47
+P64393	Integration host factor subunit alpha (IHF-alpha)	ihfA	NP_273771.1;WP_002214080.1;	1107.76	1263.7
+P0A0Z0	Putative HTH-type transcriptional regulator NMB1378		NP_274394.1;WP_002213178.1;	209.362	983.978
+Q9JYC7	Probable transcriptional regulatory protein NMB1648		NP_274653.1;WP_002216723.1;	455.02	309.422
+Q9JRT9	Pilin gene inverting protein PivNM-1A (Pilin gene inverting protein PivNM-1B)	pivNM-1B	NP_274559.1;NP_274631.1;WP_002222496.1;	160.205	424.411
+Q7DDC9	Transcriptional regulator, MerR family		NP_274322.1;WP_002213348.1;	370.155	929.934
+Q7DDQ7	Transcriptional regulator, Crp/Fnr family		NP_273429.1;WP_002212452.1;	286.199	330.97
+Q9JYC5	Leucine-responsive regulatory protein	lrp	NP_274655.1;WP_002216720.1;	410.686	531.846
+Q9JZU4	Uncharacterized protein		NP_273937.1;WP_002220683.1;	1361.4	1314.67
+Q7DD45	Uncharacterized protein		NP_275082.1;WP_002215072.1;	716.242	352.154
+Q7DDA2	Transcriptional regulator, GntR family		NP_274570.1;WP_002212831.1;	278.18	225.483
+Q7DD98	Transcriptional regulator MtrA	mtrA	NP_274597.1;WP_002212798.1;	374.595	351.136
+Q9JXT5	Helix-turn-helix family protein		NP_274887.1;WP_002225796.1;	278.638	125.637
