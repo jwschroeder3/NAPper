@@ -2,13 +2,13 @@
 kallisto index -i m_tb m_tuberculosis_H37Rv_NC_000962_cds.fa
 
 # download data
-fasterq-dump SRR9042978
-fasterq-dump SRR9042979
-fasterq-dump SRR9042980
-
-gzip SRR9042978.fastq
-gzip SRR9042979.fastq
-gzip SRR9042980.fastq
+#fasterq-dump SRR9042978
+#fasterq-dump SRR9042979
+#fasterq-dump SRR9042980
+#
+#gzip SRR9042978.fastq
+#gzip SRR9042979.fastq
+#gzip SRR9042980.fastq
 
 kallisto quant --single -o wt_rep1 -i m_tb -t 6 -l 200 -s 25 SRR9042978.fastq.gz
 kallisto quant --single -o wt_rep2 -i m_tb -t 6 -l 200 -s 25 SRR9042979.fastq.gz
@@ -32,5 +32,5 @@ echo "uniprot_id;protein;gene;refseq" | sed s/";"/"\t"/g > nap_hits.txt
 grep -f nap_candidates_refseq.txt m_tb_ATCC_25618.tab | awk -F "\t" 'BEGIN {OFS="\t"}; {print $1, $4, $10, $21}' >> nap_hits.txt
 
 # and merge this back in with the expression data
-python ../add_expr_dat.py nap_hits.txt nap_hits_wt.txt wt_average_tpm.txt
+python ../add_expr_dat.py nap_hits.txt nap_hits_full.txt wt_average_tpm.txt
 

@@ -1,5 +1,19 @@
 library(tidyverse)
-source('helper_functions.R')
+srcdir = 'src'
+source(file.path(srcdir,'helper_functions.R'))
+
+bact_direcs = c(
+  'Bs', # Bacillus subtilis
+  'Mtb', # Mycobacterium tuberculosis
+  'Ec', # Escherichia coli
+  'Pa', # Pseudomonas aeruginosa
+  'Nm', # Nisseria meningitidis
+  'Cc' # Caulobacter crescentus
+)
+
+data_tib = tibble(direc = bact_direcs)
+
+list.files('Bs')
 
 main_dir = '/home/jeremy/src/take_a_nap/transcriptomics'
 # vector to iterate over the directories I have within main_dir

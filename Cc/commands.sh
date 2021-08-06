@@ -2,11 +2,11 @@
 kallisto index -i na1000 na1000_cds.fa
 
 # get the data
-fasterq-dump SRR5772180
-fasterq-dump SRR5772181
-
-gzip SRR5772180.fastq
-gzip SRR5772181.fastq
+#fasterq-dump SRR5772180
+#fasterq-dump SRR5772181
+#
+#gzip SRR5772180.fastq
+#gzip SRR5772181.fastq
 
 kallisto quant --single -o wt -i na1000 -t 6 -l 200 -s 25 SRR5772180.fastq.gz
 kallisto quant --single -o gapR_dep -i na1000 -t 6 -l 200 -s 25 SRR5772181.fastq.gz
@@ -33,6 +33,6 @@ echo "uniprot_id;protein;gene;refseq" | sed s/";"/"\t"/g > gapR_dep_nap_hits.txt
 grep -f nap_candidates_refseq.txt c_crescentus_na1000.tab | awk -F "\t" 'BEGIN {OFS="\t"}; {print $1, $4, $10, $21}' >> gapR_dep_nap_hits.txt
 
 # and merge this back in with the expression data
-python ../add_expr_dat.py wt_nap_hits.txt wt_nap_hits_full.txt wt_tpm.txt
-python ../add_expr_dat.py gapR_dep_nap_hits.txt gapR_nap_hits_full.txt gapR_dep_tpm.txt
+python ../add_expr_dat.py wt_nap_hits.txt nap_hits_test.txt wt_tpm.txt
+python ../add_expr_dat.py nap_hits_test.txt nap_hits_full.txt gapR_dep_tpm.txt
 

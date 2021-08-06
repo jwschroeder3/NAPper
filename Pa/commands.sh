@@ -1,19 +1,10 @@
 # download the data
-ffq -t GSE GSE152295 > sra.json
-
-wget https://sra-download.ncbi.nlm.nih.gov/traces/sra69/SRR/011717/SRR11998448
-wget https://sra-download.ncbi.nlm.nih.gov/traces/sra46/SRR/011717/SRR11998449
-wget https://sra-download.ncbi.nlm.nih.gov/traces/sra55/SRR/011717/SRR11998450
-wget https://sra-download.ncbi.nlm.nih.gov/traces/sra15/SRR/011717/SRR11998427
-wget https://sra-download.ncbi.nlm.nih.gov/traces/sra27/SRR/011717/SRR11998428
-wget https://sra-download.ncbi.nlm.nih.gov/traces/sra10/SRR/011717/SRR11998429
-
-fastq-dump SRR11998448 --split-spot --gzip --split-files
-fastq-dump SRR11998449 --split-spot --gzip --split-files
-fastq-dump SRR11998450 --split-spot --gzip --split-files
-fastq-dump SRR11998427 --split-spot --gzip --split-files
-fastq-dump SRR11998428 --split-spot --gzip --split-files
-fastq-dump SRR11998429 --split-spot --gzip --split-files
+#ffq -t GSE GSE152295 > sra.json
+#
+#for acc in SRR11998448 SRR11998449 SRR11998450 SRR11998427 SRR11998428 SRR11998429; do
+#    fasterq-dump $acc
+#done
+#gzip *.fastq
 
 # set up and run kallisto
 kallisto index -i PA01 GCF_000006765.1_ASM676v1_cds_from_genomic.fna
