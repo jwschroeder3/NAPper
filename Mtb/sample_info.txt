@@ -1,0 +1,4 @@
+SRR	condition	replicate	bug
+SRR9042978	WT carD	1	M. tuberculosis
+SRR9042979	WT carD	2	M. tuberculosis
+SRR9042980	WT carD	3	M. tuberculosis

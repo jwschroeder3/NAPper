@@ -1,9 +1,18 @@
 # set up kallisto
 kallisto index -i m_tb m_tuberculosis_H37Rv_NC_000962_cds.fa
 
-kallisto quant --single -o wt_rep1 -i m_tb -t 6 -l 200 -s 25 wt_rep1.fastq.gz
-kallisto quant --single -o wt_rep2 -i m_tb -t 6 -l 200 -s 25 wt_rep2.fastq.gz
-kallisto quant --single -o wt_rep3 -i m_tb -t 6 -l 200 -s 25 wt_rep3.fastq.gz
+# download data
+fasterq-dump SRR9042978
+fasterq-dump SRR9042979
+fasterq-dump SRR9042980
+
+gzip SRR9042978.fastq
+gzip SRR9042979.fastq
+gzip SRR9042980.fastq
+
+kallisto quant --single -o wt_rep1 -i m_tb -t 6 -l 200 -s 25 SRR9042978.fastq.gz
+kallisto quant --single -o wt_rep2 -i m_tb -t 6 -l 200 -s 25 SRR9042979.fastq.gz
+kallisto quant --single -o wt_rep3 -i m_tb -t 6 -l 200 -s 25 SRR9042980.fastq.gz
 
 # now merge tpm across replicates
 paste wt_rep1/abundance.tsv wt_rep2/abundance.tsv wt_rep2/abundance.tsv | awk 'BEGIN {OFS="\t"}; NR==1 {print $1, $5}; NR>1 {print $1, ($5 + $10 + $15) /3}' > wt_average_tpm.txt
