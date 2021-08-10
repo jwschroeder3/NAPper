@@ -1,0 +1,481 @@
+uniprot_id	protein	gene	refseq	wt_tpm.txt	gapR_dep_tpm.txt
+B8GYM1	Exodeoxyribonuclease 7 large subunit (EC 3.1.11.6) (Exodeoxyribonuclease VII large subunit) (Exonuclease VII large subunit)	xseA	WP_010920107.1;YP_002517702.1;	69.8201	65.9041
+B8H4W7	Ribonuclease H (RNase H) (EC 3.1.26.4)	rnhA	WP_010921194.1;YP_002518849.1;	309.363	180.075
+B8H535	Transcription antitermination protein NusB (Antitermination factor NusB)	nusB	WP_010919237.1;YP_002516795.1;	590.782	436.8
+B8GWZ1	30S ribosomal protein S15	rpsO	WP_010917925.1;YP_002515409.1;	6405.36	5634.74
+B8GXP2	Ribonuclease PH (RNase PH) (EC 2.7.7.56) (tRNA nucleotidyltransferase)	rph	WP_010918041.1;YP_002515526.1;	188.441	366.239
+B8GZ34	Ribonuclease HII (RNase HII) (EC 3.1.26.4)	rnhB	WP_012639945.1;YP_002515758.1;	104.942	130.669
+B8GW31	Chromosome partitioning protein ParA	parA	WP_010921580.1;YP_002519242.1;	209.156	160.018
+B8GW20	Protein-export protein SecB	secB	WP_010921569.1;YP_002519231.1;	637.826	474.03
+B8H5U4	Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS)	metG	WP_010919354.1;YP_002516920.1;	177.736	147.473
+B8GW32	Ribosomal RNA small subunit methyltransferase G (EC 2.1.1.170) (16S rRNA 7-methylguanosine methyltransferase) (16S rRNA m7G methyltransferase) (Glucose-inhibited division protein B)	rsmG	WP_015923358.1;YP_002519243.1;	148.654	139.841
+B8GXH3	Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS)	lysS	WP_010917973.1;YP_002515457.1;	195.883	166.825
+B8GW30	Chromosome-partitioning protein ParB	parB	WP_024266006.1;YP_002519241.4;	238.114	201.282
+B8GX12	Lon protease (EC 3.4.21.53) (ATP-dependent protease La)	lon	WP_010919826.1;YP_002517410.1;	502.19	533.845
+B8GWZ0	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) (Polynucleotide phosphorylase) (PNPase)	pnp	WP_010917924.1;YP_002515408.1;	1027.28	744.596
+B8H4M6	UPF0260 protein CCNA_03385		WP_010921108.1;YP_002518758.1;	107.046	119.809
+B8GZ33	Modification methylase CcrMI (M.CcrMI) (EC 2.1.1.72) (Adenine-specific methyltransferase CcrMI)	ccrMIM	WP_010918266.1;YP_002515757.1;	335.276	153.887
+B8H462	Probable transcriptional regulatory protein CCNA_03352		WP_010921076.1;YP_002518724.1;	283.882	219.704
+B8GZ28	Chromosome partition protein Smc	smc	WP_010918261.1;YP_002515752.1;	37.179	45.7117
+B8H4M5	50S ribosomal protein L31	rpmE	WP_004616338.1;YP_002518757.1;	2507.05	1639.26
+B8H4W0	Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS)	argS	WP_010921188.1;YP_002518842.1;	249.322	219.652
+B8GVD8	Aspartate/glutamate leucyltransferase (EC 2.3.2.29)	bpt	WP_010919446.1;YP_002517016.1;	38.7178	36.7298
+B8GXP4	Protein GrpE (HSP-70 cofactor)	grpE	WP_012639893.1;YP_002515528.1;	365.275	864.337
+B8GX11	DNA-binding protein HU	hup	WP_010919825.1;YP_002517409.1;	1096.85	525.035
+B8H3Z4	Adenine deaminase (ADE) (EC 3.5.4.2) (Adenine aminohydrolase) (AAH)		WP_010921016.1;YP_002518656.1;	109.712	316.67
+B8GX15	Protein CicA	cicA	WP_012640373.1;YP_002517413.1;	201.858	115.326
+B8H363	Flagellum-specific ATP synthase (EC 7.1.2.2)	fliI	WP_010920876.1;YP_002518508.1;	55.348	45.3943
+B8H6A8	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS)	aroA	WP_010921418.1;YP_002519077.1;	185.312	192.099
+B8GYE3	Peptide deformylase (PDF) (EC 3.5.1.88) (Polypeptide deformylase)	def	WP_010918161.1;YP_002515648.1;	385.595	983.756
+B8H1L5	Cytochrome c-type biogenesis protein CcmE (Cytochrome c maturation protein E) (Heme chaperone CcmE)	ccmE	WP_010920602.1;YP_002518222.1;	133.378	129.654
+B8GX14	ATP-dependent Clp protease ATP-binding subunit ClpX	clpX	WP_010919827.1;YP_002517412.1;	504.653	386.986
+B8H2S2	Imidazolonepropionase (EC 3.5.2.7) (Imidazolone-5-propionate hydrolase)	hutI	WP_010918844.1;YP_002516384.1;	98.706	119.387
+B8H2S1	Histidine ammonia-lyase (Histidase) (EC 4.3.1.3)	hutH	WP_012640105.1;YP_002516383.1;	127.38	80.0985
+B8H364	Flagellar FliJ protein	fliJ	WP_010920877.1;YP_002518509.1;	299.903	131.576
+B8GVE1	ATP-dependent dethiobiotin synthetase BioD (EC 6.3.3.3) (DTB synthetase) (DTBS) (Dethiobiotin synthase)	bioD	WP_010919449.1;YP_002517019.1;	127.476	59.3606
+B8H4W6	Homoserine kinase (HK) (HSK) (EC 2.7.1.39)	thrB	WP_010921193.1;YP_002518848.1;	164.303	146.145
+B8H1V7	Transcription elongation factor GreA (Transcript cleavage factor GreA)	greA	WP_010920688.1;YP_002518314.1;	929.944	1056.28
+B8H546	Integration host factor subunit alpha (IHF-alpha)	ihfA	WP_010919247.1;YP_002516806.1;	873.12	664.353
+B8H6A5	Integration host factor subunit beta (IHF-beta)	ihfB	WP_010921415.1;YP_002519074.1;	525.019	473.085
+B8H6A4	Large-conductance mechanosensitive channel	mscL	WP_010921414.1;YP_002519073.1;	438.868	412.815
+B8GW33	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG (Glucose-inhibited division protein A)	mnmG	WP_024266007.1;YP_002519244.2;	128.636	134.583
+B8H2R9	Urocanate hydratase (Urocanase) (EC 4.2.1.49) (Imidazolonepropionate hydrolase)	hutU	WP_010918841.1;YP_002516381.1;	155.306	80.6889
+B8GXA8	Glucokinase (EC 2.7.1.2) (Glucose kinase)	glk	WP_010919917.1;YP_002517506.1;	724.278	331.008
+B8GW34	tRNA modification GTPase MnmE (EC 3.6.-.-)	mnmE	YP_002519245.3;	120.717	156.061
+B8H533	Transcriptional repressor NrdR	nrdR	WP_010919235.1;YP_002516793.1;	305.303	314.662
+B8GXP3	Heat-inducible transcription repressor HrcA	hrcA	WP_012639892.1;YP_002515527.1;	99.7841	400.077
+B8H6A7	Cytidylate kinase (CK) (EC 2.7.4.25) (Cytidine monophosphate kinase) (CMP kinase)	cmk	WP_010921417.1;YP_002519076.1;	65.6723	64.3506
+B8GWV5	NADH-quinone oxidoreductase subunit B (EC 7.1.1.-) (NADH dehydrogenase I subunit B) (NDH-1 subunit B)	nuoB	WP_012640371.1;YP_002517405.1;	1216.81	603.533
+B8GW27	Leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase) (LeuRS)	leuS	WP_010921576.1;YP_002519238.1;	252.245	195.831
+B8GYD9	Nucleoid-associated protein CCNA_00269		WP_012639925.1;YP_002515644.1;	1175.99	803.726
+B8GYE0	Recombination protein RecR	recR	WP_012639926.1;YP_002515645.1;	365.71	378.037
+B8GYW7	DNA gyrase inhibitor YacG	yacG	WP_010920199.1;YP_002517798.1;	98.1324	81.1421
+B8GX17	Trigger factor (TF) (EC 5.2.1.8) (PPIase)	tig	YP_002517415.1;	1898.09	1035.66
+B8H209	Ubiquinone biosynthesis O-methyltransferase (2-polyprenyl-6-hydroxyphenol methylase) (EC 2.1.1.222) (3-demethylubiquinone 3-O-methyltransferase) (EC 2.1.1.64)	ubiG	WP_010918725.1;YP_002516256.1;	57.4356	135.932
+B8GX16	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92) (Endopeptidase Clp)	clpP	YP_002517414.1;	2085.21	1980.19
+B8H358	Cell cycle transcriptional regulator CtrA (Response regulator SokA)	ctrA	WP_010920871.1;YP_002518503.1;	926.903	642.524
+A0A0H3CAT5	Transposase (Transposase, HTH-Tnp1 superfamily)		WP_010918402.1;YP_002515921.1;YP_002517747.1;YP_002518144.1;YP_002518200.1;	116.277	320.937
+A0A0H3CAW4	Uncharacterized protein		WP_010920617.1;YP_002518237.1;	2.81204	11.3918
+A0A0H3CA46	Uncharacterized protein		WP_012640577.1;YP_002518214.1;	29.0393	64.9518
+A0A0H3CC06	Uncharacterized protein		WP_010920182.1;YP_002517781.1;	86.0664	52.7569
+A0A0H3CC18	Type-4 uracil-DNA glycosylase (EC 3.2.2.27)		WP_010920192.1;YP_002517791.1;	7.82549	32.3509
+A0A0H3C8E7	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase (EC 4.2.-.-)		WP_010918847.1;YP_002516387.2;	48.9662	81.6878
+A0A0H3CAE3	DNA-binding protein HU		WP_010920190.1;YP_002517789.1;	4026.12	1746.28
+A0A0H3C6E1	Membrane fusion protein (MFP) family protein	rsaE	WP_010918893.1;YP_002516434.1;	324.177	217.215
+A0A0H3CA10	Acetyltransferase family protein		WP_010919485.1;YP_002517056.2;	80.6484	306.4
+A0A0H3C7Q7	LacI-family transcriptional regulator		WP_010919363.1;YP_002516929.1;	251.051	130.871
+A0A0H3C7B0	ROS/MUCR transcriptional regulator		WP_024265704.1;YP_002516791.2;	480.284	512.576
+A0A0H3CDJ3	ArsR-family transcriptional regulator		WP_024265860.1;YP_002518330.2;	19.2326	28.3905
+A0A0H3C878	Flagellar hook protein FlgE	flgE	WP_010918786.1;YP_002516320.1;	239.511	99.5484
+A0A0H3CA40	Spx/MgsR-related protein (EC 1.20.4.1)		WP_024265729.1;YP_002517087.2;	339.814	164.792
+A0A0H3C6H8	Uncharacterized protein		WP_024265705.1;YP_002516797.2;	117.635	89.9275
+A0A0H3CEH4	Pirin		WP_010921014.1;YP_002518654.1;	31.9962	107.445
+A0A0H3CAP3	Uncharacterized protein		WP_012640560.1;YP_002518148.1;	580.133	851.289
+A0A0H3CBM7	Protein-methionine-sulfoxide reductase catalytic subunit MsrP (EC 1.8.5.-)	msrP	WP_010920589.1;YP_002518207.1;	23.4042	32.7516
+A0A0H3C7L0	AraC-family transcriptional regulator		WP_012640330.1;YP_002517231.1;	106.054	16.4095
+A0A0H3C699	Copper resistance protein B		WP_010918849.1;YP_002516389.1;	40.5082	134.559
+A0A0H3C7Q2	Uncharacterized protein		WP_010919358.1;YP_002516924.1;	39.5187	433.198
+A0A0H3C5Y8	Excisionase		WP_012639978.1;YP_002515850.1;	13.1758	39.511
+A0A0H3C8W8	TonB-dependent maltose outer membrane transporter malA	malA	WP_010920148.1;YP_002517743.1;	175.077	75.0848
+A0A0H3C8C2	General stress protein 17O		WP_010918821.1;YP_002516359.1;	39.5931	49.8124
+A0A0H3CCR4	Uncharacterized protein		WP_012640691.1;YP_002518658.1;	107.888	646.663
+A0A0H3CF07	Zinc-dependent metalloprotease, MMP subfamily 2		WP_010921186.1;YP_002518840.1;	36.7506	40.4392
+A0A0H3CAK3	Hydrolase, nudix family		WP_010920181.1;YP_002517780.1;	42.6017	37.018
+A0A0H3C803	Hemimethylated DNA-binding protein yccV		WP_010919487.1;YP_002517058.1;	267.703	1525.97
+A0A0H3CD99	Uncharacterized protein		WP_010920609.1;YP_002518229.1;	39.9005	578.651
+A0A0H3CD67	TadG-family protein		WP_010920578.1;YP_002518193.1;	47.294	170.894
+A0A0H3CDD5	Thiamine monophosphate synthase TenI		WP_024266003.1;YP_002519235.2;	90.183	377.422
+A0A0H3C4K7	Uncharacterized protein		WP_024265502.1;YP_002515522.2;	0.0	0.0
+A0A0H3C966	Aspartyl protease perP	perP	WP_010919184.1;YP_002516738.1;	144.608	79.0649
+A0A0H3C5G7	Serine kinase/phosphatase HprK (EC 2.7.1.-)	hprK	WP_010918128.1;YP_002515614.1;	34.6435	90.2695
+A0A0H3CCW5	30S ribosomal protein S1		WP_015923317.1;YP_002519075.1;	2460.56	1465.54
+A0A0H3CAE9	TonB accessory protein exbB	exbB	WP_010920195.1;YP_002517794.1;	4277.62	1132.27
+A0A0H3CBU1	Outer membrane protein A		WP_010920685.1;YP_002518311.1;	44.6943	134.921
+A0A0H3CA36	Uncharacterized protein		WP_010919510.1;YP_002517082.1;	20.5925	34.8717
+A0A0H3C3G2	Probable membrane transporter protein		WP_024265536.1;YP_002515751.2;	51.0023	53.9801
+A0A0H3CBN7	Antitoxin protein parD3	parD3	WP_012640578.1;YP_002518217.1;	930.101	2971.14
+A0A0H3CBP7	PepSY peptidase propeptide domain protein		WP_010920608.1;YP_002518228.1;	626.015	4734.29
+A0A0H3C9K5	FlhB-like flagellar protein		WP_010919773.1;YP_002517357.1;	62.8631	84.0068
+A0A0H3C2N9	Acyl-CoA dehydrogenase, long-chain specific (EC 1.3.8.8)		WP_010917968.1;YP_002515452.1;	51.0171	124.222
+A0A0H3CB21	Uncharacterized protein		WP_010920691.1;YP_002518317.1;	197.785	96.7646
+A0A0H3C827	MecR antirepressor / ankyrin repeat family protein		WP_010919512.1;YP_002517084.1;	23.7246	70.7546
+A0A0H3C6X2	PAS-family motility and cell cycle regulatory protein MopJ	mopJ	WP_024265646.1;YP_002516372.2;	43.8615	84.0304
+A0A0H3C593	Uncharacterized protein		WP_024265647.1;YP_002516380.2;	16.6914	17.6659
+A0A0H3CCW8	Lrp-family transcriptional regulator		WP_024265921.1;YP_002518653.2;	532.445	400.32
+A0A0H3C6E0	2-dehydro-3-deoxy-6-phosphogalactonate aldolase (EC 4.1.2.21)		WP_010918669.1;YP_002516198.1;	10.5273	15.8558
+A0A0H3CAD8	Soluble lytic transglycosylase PleA	pleA	WP_012640469.1;YP_002517784.1;	64.2409	93.1762
+A0A0H3C507	CtrA inhibitory protein SciP	sciP	WP_010918787.1;YP_002516321.2;	8051.19	2061.82
+A0A0H3C6Z9	ABC-type transport system involved in lipoprotein release, permease component LolE	lolE	WP_010918815.1;YP_002516353.1;	17.0623	123.095
+A0A0H3CAT8	Microsomal dipeptidase (EC 3.4.13.19)		WP_012640575.1;YP_002518205.1;	63.3776	79.147
+A0A0H3CBN0	DnaJ-class molecular chaperone		WP_012640580.1;YP_002518233.1;	226.869	740.836
+A0A0H3CC94	Peptidase, M16 family (EC 3.4.11.-)		WP_010921413.1;YP_002519072.1;	96.8743	279.557
+A0A0H3CBW8	SpsF-related cytidylyltransferase		WP_010920693.1;YP_002518319.1;	13.9408	22.4713
+A0A0H3C9C9	Uncharacterized protein		WP_024265706.1;YP_002516808.2;	152.605	226.445
+A0A0H3C339	Uncharacterized protein		WP_010918125.1;YP_002515611.1;	96.93	75.3083
+A0A0H3C8D4	Transporter, major facilitator superfamily		WP_010919355.1;YP_002516921.1;	62.3345	51.6205
+A0A0H3C8J2	RimI-like acetyltransferase		WP_010919483.1;YP_002517054.1;	145.526	110.953
+A0A0H3CBW9	Alpha-amylase (EC 3.2.1.1)		WP_024265787.1;YP_002517742.2;	82.0792	53.4112
+A0A0H3C9L1	Glucan 1,4-beta-glucosidase (EC 3.2.1.74)	celD	WP_010919915.1;YP_002517504.1;	34.0692	28.5018
+A0A0H3CCP0	Pyridoxal phosphate homeostasis protein (PLP homeostasis protein)		WP_010921572.1;YP_002519234.1;	110.641	276.003
+A0A0H3CC12	Acyl-CoA dehydrogenase (EC 1.3.99.-)		WP_010920187.1;YP_002517786.1;	129.107	179.796
+A0A0H3CBH6	M23 family peptidoglycan-specific endopeptidase LdpD	ldpD	WP_010920870.1;YP_002518502.1;	202.049	198.147
+A0A0H3C8S4	DUF2147 domain-containing protein		WP_010919509.1;YP_002517081.1;	118.157	193.245
+A0A0H3C8Z2	Iron-regulated membrane protein		WP_010919650.1;YP_002517233.1;	47.0238	33.396
+A0A0H3CBN2	Uncharacterized protein		WP_012640582.1;YP_002518238.1;	4.65353	24.8272
+A0A0H3C4K9	Aspartate aminotransferase (EC 2.6.1.1)		WP_010918624.1;YP_002516148.1;	25.23	31.9246
+A0A0H3C6X7	Flagellar basal body rod protein FlgB	flgB	WP_012640104.1;YP_002516377.1;	166.346	151.496
+A0A0H3C9X4	Beta-lactamase family protein		WP_010919442.1;YP_002517012.1;	17.0561	35.5113
+A0A0H3C403	Cupin superfamily protein		WP_012639995.1;YP_002515925.1;	60.8796	70.8936
+A0A0H3C633	LacI-family transcriptional regulator		WP_010918404.1;YP_002515923.1;	17.4731	92.4769
+A0A0H3C6B5	PTS system, IIA component (EC 2.7.1.191)		WP_012639920.1;YP_002515615.1;	559.382	482.124
+A0A0H3C8M1	Gluconate 2-dehydrogenase subunit 3-family protein		WP_010919508.1;YP_002517080.1;	18.1422	24.2215
+A0A0H3CA61	Uncharacterized protein		WP_012640448.1;YP_002517703.1;	165.935	208.85
+A0A0H3CD29	Methyl-accepting chemotaxis protein		WP_010920537.1;YP_002518146.1;	28.9986	57.796
+A0A0H3C6W1	Phosphinothricin N-acetyltransferase (EC 2.3.1.-)		WP_012640097.1;YP_002516357.1;	171.651	103.404
+A0A0H3CAH1	Alpha-glucosidase (EC 3.2.1.20)		WP_012640457.1;YP_002517741.1;	67.0923	29.6076
+A0A0H3C9N2	Uncharacterized protein		WP_010919819.1;YP_002517403.1;	838.886	385.291
+A0A0H3C6Y3	Uncharacterized protein		WP_012639979.1;YP_002515851.1;	41.3479	47.0217
+A0A0H3C465	DNA recombination protein RmuC homolog		WP_010918160.1;YP_002515647.1;	87.6827	308.361
+A0A0H3C883	Flagellar assembly protein FlbE/FliH	flbE	WP_010918791.1;YP_002516325.1;	30.7491	18.9676
+A0A0H3C988	Histidine kinase (EC 2.7.13.3)		WP_010919636.1;YP_002517219.1;	65.9764	54.6384
+A0A0H3C461	AMP nucleosidase (EC 3.2.2.4)	amn	WP_010918153.1;YP_002515640.1;	429.326	544.026
+A0A0H3CBW7	Non-specific DNA-binding protein Dps/iron-binding ferritin-like antioxidant protein/ferroxidase (EC 1.16.3.1)		WP_024265864.1;YP_002518339.2;	140.9	691.857
+A0A0H3CAA3	Uncharacterized protein		WP_010920150.1;YP_002517745.1;	0.0	0.0
+A0A0H3C777	Helix-turn-helix transcriptional regulator		WP_010918890.1;YP_002516431.1;	168.057	421.841
+A0A0H3C722	Uncharacterized protein		WP_010918889.1;YP_002516430.1;	204.6	278.067
+A0A0H3C637	Nitrogen regulatory protein P-II	glnC	WP_010918409.1;YP_002515928.1;	377.212	510.252
+A0A0H3CA99	CelR-family transcriptional regulator		WP_010920145.1;YP_002517740.1;	86.5011	64.8017
+A0A0H3C743	Flagellar basal-body rod protein FlgC	flgC	WP_010918838.1;YP_002516378.1;	171.078	171.725
+A0A0H3C5W4	Uncharacterized protein		WP_010917967.1;YP_002515451.1;	67.5247	123.227
+A0A0H3C6Y1	N-formimino-L-glutamate deiminase (EC 3.5.3.13)		WP_010918845.1;YP_002516385.4;	123.487	159.93
+A0A0H3CDU1	PiuB-related membrane protein (EC 1.8.1.2)		WP_010921330.1;YP_002518989.1;	313.52	141.616
+A0A0H3CE94	Uncharacterized protein		WP_024266004.1;YP_002519236.2;	1886.18	1347.17
+A0A0H3C8B5	DNA integration/recombination/inversion protein		WP_010919634.1;YP_002517217.1;	16.1935	67.6321
+A0A0H3C9M7	Tryptophan halogenase superfamily protein		WP_010920149.1;YP_002517744.2;	31.6625	82.9434
+A0A0H3CBJ6	Uncharacterized protein		WP_012640572.1;YP_002518196.1;	0.0	0.0
+A0A0H3C3U2	Helix-turn-helix DNA-binding protein		WP_012639980.1;YP_002515852.1;	23.5731	42.168
+A0A0H3CBU6	Histidine kinase (EC 2.7.13.3)		WP_010920692.1;YP_002518318.1;	33.0038	39.6396
+A0A0H3C740	Two-component response regulator		WP_012640199.1;YP_002516735.1;	44.6807	340.185
+A0A0H3C565	3-ketoacyl-CoA thiolase (EC 2.3.1.9)		WP_010917966.1;YP_002515450.1;	71.7113	118.645
+A0A0H3CBN8	Methyl-accepting chemotaxis protein		WP_010921187.1;YP_002518841.1;	29.3245	57.4742
+A0A0H3C9B8	Thiamine-monophosphate kinase (TMP kinase) (Thiamine-phosphate kinase) (EC 2.7.4.16)	thiL	WP_010919238.1;YP_002516796.3;	253.21	230.708
+A0A0H3C569	ROS/MUCR transcriptional regulator MucR1	mucR1	WP_012640096.1;YP_002516355.1;	332.195	241.587
+A0A0H3C738	Uncharacterized protein		WP_012640103.1;YP_002516373.1;	7.33581e-05	0.000156261
+A0A0H3CF14	SpoVT-AbrB family transcription factor, phd antitoxin	phd	WP_015923260.1;YP_002518847.1;	396.431	999.95
+A0A0H3CAN9	Conjugal transfer protein TrbL		WP_012640559.1;YP_002518143.1;	17.8993	51.7836
+A0A0H3C8N3	Carboxypeptidase G2 (EC 3.4.17.11)		WP_010919479.1;YP_002517050.1;	288.45	241.839
+A0A0H3CD85	MecR1 antirepressor protein		WP_024265847.1;YP_002518213.2;	38.2492	76.8209
+A0A0H3C2W3	PDZ domain family protein		WP_012639891.1;YP_002515525.1;	65.0498	554.56
+A0A0H3C5M5	GntR-family transcriptional regulator		WP_010918668.1;YP_002516197.1;	57.946	49.8921
+A0A0H3C735	Myo-inositol catabolism protein IolD	iolD	WP_010919176.1;YP_002516730.1;	12.1278	20.2012
+A0A0H3CBL4	Uncharacterized protein		WP_012640571.1;YP_002518192.1;	0.0	0.0
+A0A0H3C5I6	TonB-dependent receptor		WP_010918342.1;YP_002515859.1;	7.2823	39.6494
+A0A0H3CB82	TIM-barrel metal-dependent hydrolase		WP_024265922.1;YP_002518655.2;	46.3042	147.451
+A0A0H3C6Y0	Altronate dehydratase (EC 4.2.1.7)	uxaA	WP_010919362.1;YP_002516928.1;	8.61718	17.0335
+A0A0H3C8K6	Beta-lactamase family protein		WP_012640274.1;YP_002517011.1;	129.423	151.966
+A0A0H3CAL3	Biotin synthase related domain containing protein		WP_010920191.1;YP_002517790.1;	34.1756	92.6216
+A0A0H3CD80	CpxP-related protein		WP_010920590.1;YP_002518208.1;	24.073	38.5235
+A0A0H3CAU7	Histidine kinase (EC 2.7.13.3)		WP_010920596.1;YP_002518215.1;	64.6234	186.972
+A0A0H3C6E6	Glycosyltransferase (EC 2.4.1.-)		WP_010918898.1;YP_002516439.1;	111.348	74.7614
+A0A0H3C3U6	Uncharacterized protein		WP_024265557.1;YP_002515857.2;	82.8387	163.649
+A0A0H3C4K4	TetR family transcriptional regulator		WP_010918618.1;YP_002516142.1;	227.844	169.635
+A0A0H3CBY5	Short chain dehydrogenase (EC 1.-.-.-)		WP_010921011.1;YP_002518651.1;	99.1361	101.551
+A0A0H3C4V4	3-ketoacyl-CoA thiolase (EC 2.3.1.9)		WP_010918154.1;YP_002515641.1;	35.7156	172.912
+A0A0H3C372	Uncharacterized protein		WP_010918159.1;YP_002515646.1;	0.0	0.0
+A0A0H3C8T1	NTF2 superfamily protein		WP_010919817.1;YP_002517401.1;	329.228	163.899
+A0A0H3CA54	Uncharacterized protein		WP_012640579.1;YP_002518225.1;	62.8194	117.72
+A0A0H3C5A9	Uncharacterized protein		WP_012639889.1;YP_002515523.1;	212.713	2856.04
+A0A0H3C6M3	2-dehydro-3-deoxygalactonokinase (EC 2.7.1.58)		WP_010918670.1;YP_002516199.1;	9.02464	15.1486
+A0A0H3CDE0	Uncharacterized protein		WP_010921584.1;YP_002519246.1;	180.892	248.153
+A0A0H3CAU2	Transporter, drug/metabolite exporter family		WP_010920869.1;YP_002518501.1;	61.235	71.6324
+A0A0H3C8X6	MerR-family transcriptional regulator		WP_012640327.1;YP_002517213.1;	53.9458	361.357
+A0A0H3C8X3	Uncharacterized protein		WP_010920151.1;YP_002517748.1;	13.3346	88.7111
+A0A0H3C9R1	D-mannonate oxidoreductase (EC 1.1.1.57)		WP_012640251.1;YP_002516927.1;	11.6205	26.0036
+A0A0H3CA32	Transposase		WP_012640573.1;YP_002518199.1;	76.2043	80.8667
+A0A0H3C889	Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.8.1)		WP_010919913.1;YP_002517502.1;	17.089	54.4951
+A0A0H3C5R2	Conserved hypothetical cytosolic protein		WP_010918264.1;YP_002515755.1;	37.729	72.3925
+A0A0H3CB66	Acyl-CoA dehydrogenase (EC 1.3.99.-)		WP_010919912.1;YP_002517501.1;	14.095	30.0539
+A0A0H3C5U1	VapC-like PIN domain ribonuclease toxin		WP_010918726.1;YP_002516257.3;	32.2302	343.456
+A0A0H3CA51	Periplasmic serine endoprotease DegP-like (EC 3.4.21.107)		WP_010920599.1;YP_002518219.1;	349.848	643.813
+A0A0H3C9N6	Bifunctional NAD(P)H-hydrate repair enzyme (Nicotinamide nucleotide repair protein) [Includes: ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136) (ADP-dependent NAD(P)HX dehydratase); NAD(P)H-hydrate epimerase (EC 5.1.99.6)]	nnrE	WP_010919831.1;YP_002517416.1;	24.3447	27.3085
+A0A0H3C9Q8	TonB accessory protein exbD	exbD	WP_010920194.1;YP_002517793.1;	11509.7	3044.41
+A0A0H3CCC9	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (HMBPP reductase) (EC 1.17.7.4)	ispH	WP_010921190.1;YP_002518844.1;	115.18	181.472
+A0A0H3CE08	Aminoacyl-histidine dipeptidase		WP_024265899.1;YP_002518500.2;	101.378	121.552
+A0A0H3C4Z8	Hydroxyacylglutathione hydrolase (EC 3.1.2.6) (Glyoxalase II) (Glx II)	gloB	WP_010918407.1;YP_002515926.1;	35.0243	62.1008
+A0A0H3C6R7	Flagellar M-ring protein	fliF	WP_010918789.1;YP_002516323.1;	192.081	113.138
+A0A0H3CCM9	Outer membrane protein		WP_024265968.1;YP_002518982.2;	1575.82	980.982
+A0A0H3CFP6	Putative thiol-disulfide oxidoreductase		WP_010921412.1;YP_002519071.1;	16.8821	61.4205
+A0A0H3CD50	Multidrug/protein/lipid ABC transporter family, ATP-binding and permease protein		WP_015923241.1;YP_002518756.1;	63.9956	50.799
+A0A0H3C726	GDP-mannose 4,6-dehydratase (EC 4.2.1.47) (GDP-D-mannose dehydratase)	gmd	WP_010918894.1;YP_002516435.1;	215.075	164.705
+A0A0H3CA60	NlpC/P60-family cell wall-associated hydrolase		WP_010920616.1;YP_002518236.3;	15.8481	36.8815
+A0A0H3C985	Citrate synthase		WP_010919772.1;YP_002517356.1;	781.593	335.851
+A0A0H3C6R1	Aspartokinase (EC 2.7.2.4)		WP_010918728.1;YP_002516259.1;	238.843	145.091
+A0A0H3C764	Phe-4-monooxygenase (EC 1.14.16.1) (Phenylalanine-4-hydroxylase)		WP_010919486.1;YP_002517057.1;	483.261	770.032
+A0A0H3C816	ABC transporter ATP-binding protein		WP_010918723.1;YP_002516254.1;	46.2214	48.5236
+A0A0H3C8B8	Lipoprotein-releasing system ATP-binding protein LolD (EC 7.6.2.-)	lolD	WP_010918816.1;YP_002516354.1;	17.4702	111.462
+A0A0H3CD17	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) (SAICAR synthetase)	purC	WP_010921075.1;YP_002518723.1;	125.646	100.326
+A0A0H3C8S9	Transport permease protein		WP_010920105.1;YP_002517700.1;	202.713	463.645
+A0A0H3CAY3	NADH-quinone oxidoreductase subunit C (EC 7.1.1.-) (NADH dehydrogenase I subunit C) (NDH-1 subunit C)	nuoC	WP_010919820.1;YP_002517404.1;	935.946	462.491
+A0A0H3CAV5	Histidine kinase (EC 2.7.13.3)		WP_010920606.1;YP_002518226.1;	77.1886	531.276
+A0A0H3C6Y7	Zn-dependent hydrolase, glyoxalase II family		WP_012639984.1;YP_002515856.1;	193.526	169.182
+A0A0H3C8N8	LytT-family transcriptional regulator		WP_010919484.1;YP_002517055.2;	77.9562	142.222
+A0A0H3C688	Flagellar biosynthesis protein FliO	fliO	WP_010918836.1;YP_002516376.1;	131.309	111.613
+A0A0H3C908	DadA-related amino acid oxidase		WP_010920188.1;YP_002517787.1;	146.525	118.726
+A0A0H3C7X2	3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III) (KAS III)	fabH	WP_012640222.1;YP_002516805.1;	198.026	106.57
+A0A0H3C940	Glucose-6-phosphate 1-dehydrogenase (G6PD) (EC 1.1.1.49)	zwf	WP_012640396.1;YP_002517509.1;	658.026	891.451
+A0A0H3C4B2	Ribonuclease VapC (RNase VapC) (EC 3.1.-.-) (Toxin VapC)	vapC	WP_010917921.1;YP_002515406.1;	105.741	464.483
+A0A0H3CAE5	M23 family peptidoglycan-specific endopeptidase LdpB	ldpB	WP_012640449.1;YP_002517704.3;	67.6233	102.379
+A0A0H3C5S7	TonB-dependent receptor		WP_024265490.1;YP_002515403.2;	26.9381	48.5388
+A0A0H3C567	LexA-related transcriptional repressor		WP_010917971.1;YP_002515455.1;	49.0902	474.35
+A0A0H3C4T3	HAD superfamily phophatase		WP_010918133.1;YP_002515619.1;	22.8588	68.8125
+A0A0H3CAU3	RNA polymerase sigma factor		WP_010920592.1;YP_002518210.1;	96.8759	87.9713
+A0A0H3C739	Choline phosphatase (Phospholipase D)		WP_010918410.1;YP_002515929.1;	33.3525	94.6768
+A0A0H3C6E2	DNA polymerase III subunit gamma/tau (EC 2.7.7.7)	dnaX	WP_010918156.1;YP_002515643.2;	118.668	152.226
+A0A0H3C9Q7	Multifunctional fusion protein [Includes: Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4) (ATP-sulfurylase large subunit) (Sulfate adenylate transferase) (SAT); Adenylyl-sulfate kinase (EC 2.7.1.25) (APS kinase) (ATP adenosine-5'-phosphosulfate 3'-phosphotransferase) (Adenosine-5'-phosphosulfate kinase)]	cysC	WP_010919356.1;YP_002516922.1;	84.0237	46.5466
+A0A0H3CD23	Uncharacterized protein		WP_012640708.1;YP_002518729.1;	409.635	707.311
+A0A0H3CAF0	Thioredoxin reductase (EC 1.8.1.9)		WP_024265863.1;YP_002518337.3;	169.393	291.783
+A0A0H3CDT7	Glutathione-regulated potassium-efflux system protein kefC		WP_010921325.1;YP_002518984.1;	80.6448	516.208
+A0A0H3C960	Malonate-semialdehyde dehydrogenase IolA	iolA	WP_012640198.1;YP_002516733.1;	20.2099	19.9751
+A0A0H3C5M3	Glutathione S-transferase (EC 2.5.1.18)		WP_010918663.1;YP_002516191.1;	12.4347	25.7347
+A0A0H3C819	6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (LS) (Lumazine synthase) (EC 2.5.1.78)	ribH	WP_010919236.1;YP_002516794.1;	440.606	335.217
+A0A0H3C5T6	ATP-dependent RNA helicase		WP_010918720.1;YP_002516251.1;	82.869	346.087
+A0A0H3CC10	Ribonucleoside-diphosphate reductase (EC 1.17.4.1)		WP_015923295.1;YP_002518980.1;	916.785	683.327
+A0A0H3CCC8	LytR/AlgR-family transcriptional regulator		WP_010920872.1;YP_002518504.1;	66.4716	436.346
+A0A0H3CAU5	ABC transporter ATP-binding protein		WP_010919774.1;YP_002517358.1;	11.5444	29.3579
+A0A0H3C7B4	K(+)-insensitive pyrophosphate-energized proton pump (EC 7.1.3.1) (Membrane-bound proton-translocating pyrophosphatase) (Pyrophosphate-energized inorganic pyrophosphatase) (H(+)-PPase)	hppA	WP_010919240.1;YP_002516798.1;	32.6881	54.159
+A0A0H3C6I8	PAS-family sensor histidine kinase (EC 2.7.13.3)		WP_010918721.1;YP_002516252.1;	20.1885	98.5229
+A0A0H3C4A7	Histidine kinase (EC 2.7.13.3)		WP_010917916.1;YP_002515401.1;	17.0052	21.9976
+A0A0H3CBQ5	Conserved membrane protein		WP_024265849.1;YP_002518239.2;	157.114	1874.08
+A0A0H3CA67	Inositol monophosphatase family protein (EC 3.1.3.15)		WP_010920113.1;YP_002517708.1;	78.5803	79.4505
+A0A0H3C4U2	Uncharacterized protein		WP_010918719.1;YP_002516250.1;	87.66	97.8134
+A0A0H3C8P5	Glutamate--tRNA ligase (EC 6.1.1.17) (Glutamyl-tRNA synthetase) (GluRS)	gltX	WP_010919771.1;YP_002517355.1;	154.897	108.329
+A0A0H3C7X4	Lipid-A-disaccharide synthase (EC 2.4.1.182)	lpxB	WP_010919775.1;YP_002517359.1;	63.2924	49.0305
+A0A0H3CDT2	Uncharacterized protein		WP_024265982.1;YP_002519078.2;	1413.5	1024.65
+A0A0H3C6P2	Uncharacterized protein		WP_010918259.1;YP_002515750.1;	1298.51	985.437
+A0A0H3C3Q3	Acyl-CoA dehydrogenase (EC 1.3.8.7)		WP_010917969.1;YP_002515453.1;	97.0285	259.199
+A0A0H3CDA4	Phage host specificity protein		WP_010920615.1;YP_002518235.1;	1.10168	8.68916
+A0A0H3C6H4	5-aminolevulinate synthase (EC 2.3.1.37) (5-aminolevulinic acid synthase) (Delta-ALA synthase) (Delta-aminolevulinate synthase)		WP_010919232.1;YP_002516790.1;	336.577	182.024
+A0A0H3C9R2	Ribonuclease, CafA family		WP_010920200.1;YP_002517799.1;	134.605	109.023
+A0A0H3C915	Pyruvate kinase (EC 2.7.1.40)		WP_010919914.1;YP_002517503.1;	178.707	87.3508
+A0A0H3C808	NADH-quinone oxidoreductase chain E (EC 1.6.5.3)	nuoE	WP_010919816.1;YP_002517400.1;	666.921	302.074
+A0A0H3C7W2	Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.1)	glyA	WP_012640217.1;YP_002516792.1;	356.962	257.332
+A0A0H3CG88	Transcription termination factor Rho (EC 3.6.4.-) (ATP-dependent helicase Rho)	rho	WP_024266008.1;YP_002519249.4;	455.344	484.526
+A0A0H3C8F5	DNA topoisomerase 4 subunit A (EC 5.6.2.2) (Topoisomerase IV subunit A)	parC	WP_010919440.1;YP_002517010.1;	214.609	172.048
+A0A0H3CB86	Phosphogluconate dehydratase (EC 4.2.1.12)	edd	WP_010919918.1;YP_002517507.1;	714.709	359.83
+A0A0H3C912	TonB1 protein	tonB1	WP_012640470.1;YP_002517792.1;	4335.54	1193.35
+A0A0H3C5F7	Type I protein secretion ATP-binding protein RsaD	rsaD	WP_010918892.1;YP_002516433.1;	357.569	294.908
+A0A0H3C7J5	Malate synthase (EC 2.3.3.9)		WP_010919633.1;YP_002517216.1;	8.90831	24.0807
+A0A0H3C9Y3	Conjugal transfer protein TrbF		WP_010920536.1;YP_002518142.1;	12.0253	36.3972
+A0A0H3C2V8	dITP/XTP pyrophosphatase (EC 3.6.1.66) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase)		WP_012639888.1;YP_002515520.1;	58.2464	68.2794
+A0A0H3CBT5	Single domain receiver protein CleC	cleC	WP_010920110.1;YP_002517705.1;	336.425	226.351
+A0A0H3CAE6	Zn-dependent hydrolase, glyoxalase II family		WP_012640607.1;YP_002518332.1;	8.46337	62.7689
+A0A0H3C6P6	Adenine DNA glycosylase (EC 3.2.2.31)		WP_010918265.1;YP_002515756.1;	38.4782	40.4667
+A0A0H3C8T4	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.-)		WP_010920111.1;YP_002517706.1;	116.328	105.573
+A0A0H3C4P0	LuxR-like DNA-binding protein		WP_024265625.1;YP_002516196.2;	82.8155	337.823
+A0A0H3C8B2	6-phosphogluconolactonase (6PGL) (EC 3.1.1.31)	pgl	WP_010919919.1;YP_002517508.1;	436.849	315.821
+A0A0H3C761	N-succinylglutamate 5-semialdehyde dehydrogenase (EC 1.2.1.71) (Succinylglutamic semialdehyde dehydrogenase) (SGSD)	astD	WP_010919481.1;YP_002517052.1;	299.479	151.801
+A0A0H3C3L7	Major facilitator superfamily transporter		WP_010917915.1;YP_002515400.1;	111.262	84.9498
+A0A0H3C5R0	Methyltransferase (EC 2.1.1.-)		WP_012639996.1;YP_002515927.1;	62.7306	81.2756
+A0A0H3CBK4	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ (Flavocytochrome MsrQ)	msrQ	WP_010920588.1;YP_002518206.1;	40.3744	53.8761
+A0A0H3C7L5	Outer membrane efflux protein		WP_010919653.1;YP_002517236.1;	33.121	87.9564
+A0A0H3CES2	Penicillin-insensitive transglycosylase (EC 2.4.1.129) (Peptidoglycan TGase)	pbpC	WP_010921109.1;YP_002518759.1;	43.5117	61.1178
+A0A0H3C8J7	Exopolyphosphatase GppA (EC 3.6.1.11)		WP_024265726.1;YP_002517059.2;	169.664	151.996
+A0A0H3C9C5	NADH-quinone oxidoreductase subunit D (EC 7.1.1.-) (NADH dehydrogenase I subunit D) (NDH-1 subunit D)	nuoD	WP_012640370.1;YP_002517402.1;	751.058	352.527
+A0A0H3C7W9	DNA translocation competence protein ComA		WP_010919770.1;YP_002517354.1;	15.1202	17.3569
+A0A0H3C9K1	LexA repressor (EC 3.4.21.88)	lexA	WP_024265748.1;YP_002517352.2;	223.585	384.474
+A0A0H3C820	Acetyl-coenzyme A synthetase (EC 6.2.1.1)		WP_012640376.1;YP_002517418.1;	27.0744	41.9107
+A0A0H3C8D6	Ribokinase (RK) (EC 2.7.1.15)	rbsK	WP_010918834.1;YP_002516374.1;	111.234	108.796
+A0A0H3CBF6	Cobyric acid synthase	cobQ	WP_010920540.1;YP_002518149.1;	23.9892	42.6161
+A0A0H3C9J4	Cell cycle regulatory protein GcrA	gcrA	WP_024265783.1;YP_002517701.2;	553.016	446.457
+A0A0H3C748	Histidine utilization repressor		WP_010918846.1;YP_002516386.1;	128.664	408.355
+A0A0H3C8Y0	Two-component response regulator protein		WP_010919635.1;YP_002517218.1;	97.4984	62.1506
+A0A0H3C724	Protease II PtrB (EC 3.4.21.83)	ptrB	WP_010918820.1;YP_002516358.1;	130.895	104.063
+A0A0H3C781	UDP-perosamine 4-acetyl transferase PerB (EC 2.3.1.-)	perB	WP_010918895.1;YP_002516436.1;	374.718	256.995
+A0A0H3C3Q7	Bifunctional purine biosynthesis protein PurH [Includes: Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3) (AICAR transformylase); IMP cyclohydrolase (EC 3.5.4.10) (ATIC) (IMP synthase) (Inosinicase)]	purH	WP_010917975.1;YP_002515459.1;	48.394	54.472
+A0A0H3C9D1	Glycosyltransferase (EC 2.4.1.-)		WP_010919824.1;YP_002517408.1;	23.2164	46.6214
+A0A0H3CA27	HipA-related phosphatidylinositol 3/4-kinase		WP_010920579.1;YP_002518194.1;	72.0803	171.679
+A0A0H3CCY9	Uncharacterized protein		WP_024265931.1;YP_002518755.2;	70.587	83.8278
+A0A0H3C3G8	Glucan endo-1,3-beta-glucosidase (EC 3.2.1.39)		WP_010918268.1;YP_002515759.1;	55.0619	96.1752
+A0A0H3CG77	L,D-transpeptidase LdtX	ldtX	WP_010921571.1;YP_002519233.1;	61.5188	181.632
+A0A0H3C344	Phosphocarrier protein HPr (EC 2.7.1.191)		WP_010918130.1;YP_002515616.1;	845.966	854.76
+A0A0H3C8C8	TonB-dependent receptor		WP_010919649.1;YP_002517232.1;	135.814	35.6187
+A0A0H3C4S8	Histidine kinase (EC 2.7.13.3)	chvG	WP_010918127.1;YP_002515613.1;	60.2161	165.578
+A0A0H3C7R6	Uncharacterized protein		WP_010918617.1;YP_002516141.1;	344.527	218.253
+A0A0H3CD45	Inositol-1-monophosphatase (EC 3.1.3.25)		WP_012640711.1;YP_002518751.2;	358.833	472.23
+A0A0H3CAE8	Lysophospholipase L2 (EC 3.1.1.5)		WP_010920114.1;YP_002517709.1;	69.842	93.0737
+A0A0H3C4S6	Bacteriophage P4 integrase		WP_024265555.1;YP_002515853.2;	13.3561	32.5843
+A0A0H3CAD1	Nucleoside-diphosphate-sugar epimerase		WP_010920689.1;YP_002518315.1;	163.058	205.918
+A0A0H3CAH5	Uncharacterized protein		WP_012640331.1;YP_002517235.1;	36.2565	98.0139
+A0A0H3C584	Uncharacterized protein		WP_012640100.1;YP_002516370.1;	80.3719	64.6233
+A0A0H3C6S4	Flagellar biosynthesis protein FlhA	flhA	WP_010918794.1;YP_002516329.1;	93.7498	69.8555
+A0A0H3C734	Uncharacterized protein		WP_010918405.1;YP_002515924.1;	58.8229	92.3876
+A0A0H3CA03	Arginine N-succinyltransferase, beta chain (EC 2.3.1.109)		WP_010919480.1;YP_002517051.1;	393.392	242.023
+A0A0H3CAK8	TonB protein		WP_010920186.1;YP_002517785.1;	64.7081	111.908
+A0A0H3CBG0	Uncharacterized protein		WP_010921104.1;YP_002518753.1;	235.587	606.127
+A0A0H3C826	Beta-barrel assembly machine (BAM) protein BamE	bamE	WP_012640219.1;YP_002516800.1;	297.235	298.04
+A0A0H3C694	N-formylglutamate deformylase (EC 3.5.1.68)		WP_010918842.1;YP_002516382.1;	77.1518	45.7047
+A0A0H3CBY6	HicB-family RNAse H fold protein		WP_010920709.1;YP_002518335.1;	178.038	430.883
+A0A0H3C6B0	Uncharacterized protein		WP_010918124.1;YP_002515610.1;	104.438	65.5236
+A0A0H3C6X6	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4) (ATP-sulfurylase small subunit) (Sulfate adenylate transferase) (SAT)	cysD	WP_012640249.1;YP_002516923.1;	99.2967	176.037
+A0A0H3C983	Isocitrase (EC 4.1.3.1) (Isocitratase) (Isocitrate lyase)		WP_010919632.1;YP_002517214.1;	5.31551	23.9563
+A0A0H3CD71	Transposase		WP_010920583.1;YP_002518198.1;	75.9441	168.002
+A0A0H3C7R0	Histidine kinase (EC 2.7.13.3)		WP_012640200.1;YP_002516736.1;	15.8136	66.7584
+A0A0H3C789	GPH-family phosphatase (EC 3.1.3.18)		WP_024265730.1;YP_002517088.2;	128.673	75.1585
+A0A0H3CA41	Uncharacterized protein		WP_010920591.1;YP_002518209.1;	44.7697	47.9024
+A0A0H3C9Y6	Uncharacterized protein		WP_024265835.1;YP_002518147.2;	431.3	533.013
+A0A0H3C8N9	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)		WP_010919766.1;YP_002517350.1;	103.755	61.8535
+A0A0H3C4Y1	Uncharacterized protein		WP_012639927.1;YP_002515649.1;	54.1549	504.334
+A0A0H3C610	Uncharacterized protein		WP_012640085.1;YP_002516322.1;	285.429	139.735
+A0A0H3C684	ROS/MUCR transcriptional regulator MucR2	mucR2	WP_012640101.1;YP_002516371.1;	957.172	603.819
+A0A0H3C3W6	Conserved hypothetical membrane protein		WP_010918044.1;YP_002515529.1;	110.252	357.096
+A0A0H3CEJ4	Two-component response regulator cenR	cenR	WP_024266002.1;YP_002519232.3;	318.578	373.452
+A0A0H3CDD2	Death on curing toxin protein doc	doc	WP_010921192.1;YP_002518846.1;	150.605	426.344
+A0A0H3C918	TetR-family transcriptional regulator		WP_010920198.1;YP_002517797.1;	195.711	975.989
+A0A0H3CBP2	Cytochrome c-type biogenesis protein ccmI		WP_010920603.1;YP_002518223.1;	65.5221	88.2344
+A0A0H3CC23	Uncharacterized protein		WP_024265794.1;YP_002517796.2;	152.288	893.565
+A0A0H3C832	MerR-family transcriptional regulator		WP_010919248.1;YP_002516807.1;	76.0563	99.2666
+A0A0H3CB34	HTH DNA-binding protein		WP_010920707.1;YP_002518333.1;	21.4664	72.7032
+A0A0H3CD24	Conjugal transfer protein TrbG		WP_010920535.1;YP_002518141.1;	21.3061	60.8235
+A0A0H3C6D4	3-ketoacyl-CoA thiolase (EC 2.3.1.9)		WP_010918664.1;YP_002516193.1;	16.3621	38.7839
+A0A0H3CD63	Uncharacterized protein		WP_015923259.1;YP_002518845.1;	420.922	1290.83
+A0A0H3C5J2	NAD(+) diphosphatase (EC 3.6.1.22)		WP_010918155.1;YP_002515642.1;	150.758	210.461
+A0A0H3CFF1	HTH XRE-family transcriptional regulator		WP_024265969.1;YP_002518985.2;	1280.43	8603.34
+A0A0H3CAU0	PEP phosphonomutase related enzyme (EC 4.1.3.30)		WP_010919769.1;YP_002517353.1;	39.6055	59.9047
+A0A0H3C9Q0	Alpha-methylacyl-CoA racemase (EC 5.1.99.4)		WP_010920184.1;YP_002517783.1;	15.354	28.7815
+A0A0H3C7X0	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.91) (U20-specific dihydrouridine synthase) (U20-specific Dus) (tRNA-dihydrouridine synthase A)	dusA	WP_010919183.1;YP_002516737.1;	120.19	109.945
+A0A0H3C8J5	Perosamine synthetase PerA (EC 2.6.1.-)	perA	WP_010918896.1;YP_002516437.1;	230.908	177.855
+A0A0H3C9A9	Cation/multidrug efflux pump acrB4	acrB4	WP_010919656.1;YP_002517239.1;	23.4843	65.1453
+A0A0H3CD92	Alpha/beta hydrolase family protein		WP_024265848.1;YP_002518224.2;	37.3853	163.074
+A0A0H3C543	Antitoxin protein VapB	vapB	WP_012639860.1;YP_002515407.1;	111.178	431.77
+A0A0H3CAH0	AraC-family transcriptional regulator		WP_010919647.1;YP_002517230.1;	52.0539	10.3377
+A0A0H3CDK2	TonB dependent receptor		WP_024265970.1;YP_002518988.2;	540.126	151.426
+A0A0H3CBM0	Heme chaperone-apocytochrome heme-lyase (EC 4.4.1.-)		WP_010920601.1;YP_002518221.1;	115.107	113.875
+A0A0H3C8Z7	Periplasmic multidrug efflux lipoprotein		WP_010919655.1;YP_002517238.1;	16.0412	85.4316
+A0A0H3C5I2	HipB transcriptional regulator		WP_024265556.1;YP_002515854.3;	39.9501	381.443
+A0A0H3CBG9	Conjugal transfer protein TrbI		WP_010920534.1;YP_002518140.1;	22.7515	55.4252
+A0A0H3C784	BetA-family choline dehydrogenase (EC 1.1.99.-)		WP_010919511.1;YP_002517083.1;	8.66831	26.5992
+A0A0H3CE21	Ribosome association toxin RatA		WP_015923316.1;YP_002519070.1;	23.93	32.0567
+A0A0H3C6C6	Uncharacterized protein		WP_010919185.1;YP_002516739.1;	93.0474	99.8108
+A0A0H3C598	Multicopper oxidase PcoA (EC 1.-.-.-)		WP_024265648.1;YP_002516388.3;	55.0102	206.568
+A0A0H3C828	Uncharacterized protein		WP_010919517.1;YP_002517089.1;	58.6894	86.4223
+A0A0H3CCX3	PadR-family transcriptional regulator		WP_010921019.1;YP_002518659.1;	121.401	997.948
+A0A0H3C5Z1	Toxin protein module HipA		WP_012639983.1;YP_002515855.1;	27.0362	206.525
+A0A0H3C7X3	2-nitropropane dioxygenase family protein (EC 1.3.1.9)		WP_010919444.1;YP_002517014.1;	17.4567	25.5087
+A0A0H3C7W1	Uncharacterized protein		WP_024265624.1;YP_002516195.2;	83.5723	94.1679
+A0A0H3CCP5	DNA polymerase III, delta subunit (EC 2.7.7.7)		WP_015923357.1;YP_002519240.1;	129.754	122.928
+A0A0H3C8L1	Chemotaxis motB protein		WP_010919447.1;YP_002517017.1;	235.752	131.083
+A0A0H3CCW6	Cell division protein ZapA	zapA	WP_010921080.1;YP_002518728.1;	145.581	217.566
+A0A0H3C514	Flagellar motor switch protein FliN	fliN	WP_010918792.1;YP_002516326.1;	102.206	51.7921
+A0A0H3CG81	LptE superfamily protein		WP_010921577.1;YP_002519239.1;	115.848	97.304
+A0A0H3CBK9	EF hand domain protein		WP_010920593.1;YP_002518211.1;	77.2793	72.487
+A0A0H3C8B1	Transposase, IS30 family		WP_010919629.1;YP_002517210.1;	6.85031	34.6637
+A0A0H3C9J9	Transcriptional regulator of stalk biogenesis staR	staR	WP_010920112.1;YP_002517707.1;	235.318	221.409
+A0A0H3CCY5	Uncharacterized protein		WP_010921101.1;YP_002518750.1;	8.23578	74.8605
+A0A0H3C562	Thiol:disulfide interchange protein dsbA		WP_010918263.1;YP_002515754.1;	263.677	293.959
+A0A0H3C8G0	Gluconate 5-dehydrogenase (EC 1.1.1.69)		WP_010919445.1;YP_002517015.1;	26.4037	34.8929
+A0A0H3C6J7	MazE-like antitoxin protein		WP_012640072.1;YP_002516258.1;	63.9129	443.015
+A0A0H3C9Q5	Xre-family transcriptional regulator		WP_010920189.1;YP_002517788.1;	355.049	288.77
+A0A0H3C636	Cro/CI-family transcriptional regulator		WP_012639890.1;YP_002515524.1;	357.263	2579.02
+A0A0H3C668	Histidine kinase (EC 2.7.13.3)		WP_010918818.1;YP_002516356.1;	27.0698	28.2433
+A0A0H3C6I2	Uncharacterized protein		WP_010919244.1;YP_002516803.1;	252.784	145.815
+A0A0H3CA37	DUF2272 domain-containing protein		WP_010920586.1;YP_002518204.1;	118.957	102.165
+A0A0H3C9N1	Uncharacterized protein		WP_012640460.1;YP_002517749.1;	60.13	261.695
+A0A0H3C2P3	Phosphoglucomutase/phosphomannomutase (EC 5.4.2.2)		WP_012639874.1;YP_002515458.1;	54.6835	55.7439
+A0A0H3CAT0	MerR-family transcriptional regulator		WP_010920580.1;YP_002518195.1;	71.2997	326.826
+A0A0H3C814	NADH-quinone oxidoreductase subunit A (EC 7.1.1.-) (NADH dehydrogenase I subunit A) (NDH-1 subunit A) (NUO1)	nuoA	WP_010919822.1;YP_002517406.1;	1157.65	662.555
+A0A0H3C4T0	Pseudouridine synthase (EC 5.4.99.-)		WP_010918341.1;YP_002515858.1;	35.9516	63.8235
+A0A0H3CB37	Cell wall hydrolase family protein		WP_010920712.1;YP_002518338.1;	88.1766	236.807
+A0A0H3C7B8	Phosphate acyltransferase (EC 2.3.1.274) (Acyl-ACP phosphotransacylase) (Acyl-[acyl-carrier-protein]--phosphate acyltransferase) (Phosphate-acyl-ACP acyltransferase)	plsX	WP_010919245.1;YP_002516804.4;	198.636	128.794
+A0A0H3CBD3	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)		WP_010921078.1;YP_002518726.1;	43.6421	222.579
+A0A0H3C7W7	Single domain receiver protein CleB	cleB	WP_012640218.1;YP_002516799.1;	120.309	87.9733
+A0A0H3CAU8	Alpha/beta hydrolase family protein		WP_010920875.1;YP_002518507.1;	7.79763	23.347
+A0A0H3CB81	Aminobutyraldehyde dehydrogenase (EC 1.2.1.19)		WP_010921010.1;YP_002518650.1;	74.7485	101.171
+A0A0H3C8U4	Nitrogen regulatory protein P-II	glnB	WP_010919834.1;YP_002517419.1;	412.944	395.952
+A0A0H3CBL9	Uncharacterized protein		WP_010920582.1;YP_002518197.1;	25.1689	114.205
+A0A0H3CCR2	2-oxoacid ferredoxin oxidoreductase Vor	vor	WP_012640689.1;YP_002518652.1;	244.326	289.401
+A0A0H3CE12	Toxin protein higB	higB	WP_012640638.1;YP_002518506.1;	747.843	5104.0
+A0A0H3C4F0	Thiol:disulfide interchange protein dsbA		WP_010918262.1;YP_002515753.1;	157.302	143.988
+A0A0H3C8S8	2'-5' RNA ligase family protein (EC 6.5.1.-)		WP_010919514.1;YP_002517086.1;	68.1504	45.6588
+A0A0H3CD76	MPN domain protein		WP_012640574.1;YP_002518203.1;	12.8057	138.922
+A0A0H3C6V7	RND family efflux transporter, MFP subunit		WP_010918814.1;YP_002516352.1;	19.8528	153.087
+A0A0H3CD88	Two-component response regulator		WP_010920598.1;YP_002518218.1;	317.099	1206.13
+A0A0H3C8D2	TetR-family transcriptional regulator		WP_010919654.1;YP_002517237.1;	108.686	267.891
+A0A0H3CC62	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)		WP_010921105.1;YP_002518754.2;	9.56637	30.2236
+A0A0H3CBQ2	Phage host specificity protein		WP_012640581.1;YP_002518234.1;	6.44444	16.0739
+A0A0H3CAS5	Uncharacterized protein		WP_024265842.1;YP_002518190.2;	177.803	974.598
+A0A0H3C8T7	Luciferase-like monooxygenase (EC 1.14.-.-)		WP_010919823.1;YP_002517407.1;	22.6096	125.631
+A0A0H3C7S2	Ring hydroxylating diooxygenase (EC 1.14.-.-)		WP_012640051.1;YP_002516147.1;	45.4653	54.2432
+A0A0H3C5J4	OAR protein		WP_012640052.1;YP_002516149.1;	14.3684	47.593
+A0A0H3C8J1	S-layer protein rsaA	rsaA	WP_024265658.1;YP_002516432.2;	10308.3	5755.54
+A0A0H3CEA0	Carboxymethylenebutenolidase (EC 3.1.1.45)		WP_010921585.1;YP_002519247.1;	43.172	82.4587
+A0A0H3CEK4	Quinone oxidoreductase (EC 1.6.5.5)	qor	WP_010921586.1;YP_002519248.1;	49.8888	84.7002
+A0A0H3CAF8	Uncharacterized protein		WP_012640328.1;YP_002517215.1;	14.243	38.9428
+A0A0H3CC15	3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)		WP_010921327.1;YP_002518986.1;	104.245	80.068
+A0A0H3CB16	Uncharacterized protein		WP_010920684.1;YP_002518310.1;	24.1498	40.7063
+A0A0H3C400	PurR-family transcriptional regulator		WP_024265563.1;YP_002515920.2;	0.0	0.0
+A0A0H3C9A4	Uncharacterized protein		WP_010919651.1;YP_002517234.1;	84.3385	60.7886
+A0A0H3CE27	Small heat shock protein		WP_015923318.1;YP_002519079.1;	212.381	1168.4
+A0A0H3C588	Flagellar biosynthetic protein FliP	fliP	WP_010918835.1;YP_002516375.1;	136.708	106.529
+A0A0H3C6M0	Uncharacterized protein		WP_010918665.1;YP_002516194.1;	33.5653	45.675
+A0A0H3CEN8	Metallophosphatase domain protein		WP_010921077.1;YP_002518725.1;	120.323	142.912
+A0A0H3C9V2	Oxacillin resistance-associated protein fmtC		WP_012640395.1;YP_002517500.1;	165.412	79.6534
+A0A0H3CBM3	Peptidase S8 family protein		WP_010920585.1;YP_002518202.1;	16.6671	46.8506
+A0A0H3CAV2	Cytochrome c-type biogenesis protein		WP_010920600.1;YP_002518220.1;	182.02	137.309
+A0A0H3C8D9	Undecaprenyl-phosphate beta-N-acetyl-D-fucosaminephosphotransferase (EC 2.7.8.-)		WP_010919360.1;YP_002516926.1;	84.9527	57.7577
+A0A0H3CCN5	Uncharacterized protein		WP_010921328.1;YP_002518987.1;	508.127	177.037
+A0A0H3CAZ1	Phosphoglycerate mutase		WP_010919832.1;YP_002517417.1;	34.5662	48.1872
+A0A0H3C5G2	Glycosyltransferase (EC 2.4.1.-)		WP_010918897.1;YP_002516438.1;	143.105	118.896
+A0A0H3C899	Polar localization protein TipN	tipN	WP_012640250.1;YP_002516925.1;	115.799	74.2242
+A0A0H3C617	AAA-family response regulator flbD	flbD	WP_010918793.1;YP_002516327.1;	158.197	78.3059
+A0A0H3CBM5	Two-component response regulator		WP_010920607.1;YP_002518227.1;	176.231	1206.52
+A0A0H3C4U7	17 kDa surface antigen	osrP	WP_010918724.1;YP_002516255.1;	3.52766	19.7113
+A0A0H3C903	Histidine kinase (EC 2.7.13.3)		WP_010920183.1;YP_002517782.1;	187.318	64.1112
+A0A0H3C3W1	Glutathione S-transferase (EC 2.5.1.18)		WP_010918036.1;YP_002515521.1;	161.069	188.266
+A0A0H3C6C0	PepSY superfamily protein		WP_024265694.1;YP_002516734.2;	100.998	843.789
+A0A0H3C6J3	HIG1 domain-containing protein		WP_024265605.1;YP_002516140.2;	351.864	491.261
+A0A0H3CA56	HipA-family phosphatidylinositol 3/4-kinase		WP_010920611.1;YP_002518231.1;	51.7557	428.556
+A0A0H3CCW1	Uncharacterized protein		WP_010921074.1;YP_002518722.1;	56.2717	90.4386
+A0A0H3C6V1	Flagellar motor switch protein FliG	fliG	WP_010918790.1;YP_002516324.1;	107.734	60.1836
+A0A0H3C5W9	Uncharacterized protein		WP_010917972.1;YP_002515456.1;	480.697	3063.21
+A0A0H3C5I9	TetR family transcriptional regulator		WP_010918619.1;YP_002516143.1;	138.07	76.708
+A0A0H3C437	Two-component response regulator chvI	chvI	WP_010918126.1;YP_002515612.1;	125.729	468.849
+A0A0H3CBN1	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme (ATP:glutamine synthetase adenylyltransferase) (ATase) [Includes: Glutamine synthetase adenylyl-L-tyrosine phosphorylase (EC 2.7.7.89) (Adenylyl removase) (AR) (AT-N); Glutamine synthetase adenylyl transferase (EC 2.7.7.42) (Adenylyl transferase) (AT) (AT-C)]	glnE	WP_024265846.1;YP_002518212.2;	29.5844	31.1313
+A0A0H3C6Q8	Uncharacterized protein		WP_010918722.1;YP_002516253.1;	42.5082	57.6737
+A0A0H3CDH7	Methyl-accepting chemotaxis protein		WP_010920687.1;YP_002518313.1;	14.198	19.0571
+A0A0H3CAL7	Short chain dehydrogenase (EC 1.-.-.-)		WP_010920196.1;YP_002517795.1;	62.5497	282.405
+A0A0H3C7Z8	N-succinylarginine dihydrolase (EC 3.5.3.23)	astB	WP_010919482.1;YP_002517053.1;	203.875	115.967
+A0A0H3CCG3	Transcriptional regulator, antitoxin protein higA	higA	WP_010920873.1;YP_002518505.1;	118.994	736.086
+A0A0H3C8M5	CopY/TcrY family transcriptional repressor		WP_012640294.1;YP_002517085.1;	71.3383	327.419
+A0A0H3CBZ0	Magnesium and cobalt transport protein CorA		WP_010921017.1;YP_002518657.1;	66.8881	300.629
+A0A0H3C4N5	L-sorbosone dehydrogenase (EC 1.2.99.-)		WP_010918662.1;YP_002516190.1;	21.4488	35.7619
+A0A0H3C6J6	Carboxypeptidase S (EC 3.4.17.4)		WP_024265607.1;YP_002516146.4;	13.4557	21.8939
+A0A0H3C2K2	Lysine exporter protein		WP_010917919.1;YP_002515404.1;	36.4337	113.861
+A0A0H3CE89	Tim44-like domain protein		WP_024266001.1;YP_002519230.2;	131.902	271.595
+A0A0H3CAW1	HTH cro/C1-type domain-containing protein		WP_010920612.1;YP_002518232.1;	102.852	737.994
+A0A0H3C539	PKHD-type hydroxylase CCNA_00027 (EC 1.14.11.-)		WP_012639859.1;YP_002515402.1;	30.26	110.304
+A0A0H3CDJ8	Uncharacterized protein		WP_010920710.1;YP_002518336.1;	219.175	158.865
+A0A0H3C7W4	Myo-inositol catabolism protein IolB	iolB	WP_012640197.1;YP_002516732.1;	30.8377	25.5211
+A0A0H3C8E1	Flagellar hook-basal body complex protein FliE	fliE	WP_010918839.1;YP_002516379.1;	65.3744	44.3135
+A0A0H3C9C4	Ubiquinol-cytochrome C reductase chaperone		WP_010919243.1;YP_002516802.1;	574.276	340.815
+A0A0H3CC42	Acylamino-acid-releasing enzyme (EC 3.4.19.1)		WP_012640707.1;YP_002518727.1;	360.023	193.594
+A0A0H3CBC8	Uncharacterized protein		WP_010921073.1;YP_002518720.1;	200.939	158.199
+A0A0H3CBL5	Toxin protein parE3	parE3	WP_010920597.1;YP_002518216.1;	210.299	814.287
+A0A0H3CBW3	Uncharacterized protein		WP_024265857.1;YP_002518312.2;	17.3362	22.5185
+A0A0H3CBW2	NeuB-family N-acetylneuraminate synthase (EC 2.5.1.56)		WP_010920708.1;YP_002518334.1;	57.7314	56.6189
+A0A0H3CDJ7	Methyltransferase (EC 2.1.1.-)		WP_010921324.1;YP_002518983.2;	24.1656	162.147
+A0A0H3C9X7	3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31)		WP_010919448.1;YP_002517018.1;	158.296	130.713
+A0A0H3C737	Quinone oxidoreductase (EC 1.6.5.5)		WP_010919443.1;YP_002517013.1;	18.4151	32.8862
+A0A0H3C691	Uncharacterized protein		WP_010918621.1;YP_002516145.2;	12.7024	31.3695
+A0A0H3CBJ2	Uncharacterized protein		WP_012640570.1;YP_002518191.1;	0.0	0.0
+A0A0H3CEJ8	Uncharacterized protein		WP_024266005.1;YP_002519237.3;	902.066	921.89
+A0A0H3C4F7	MerR-family transcriptional regulator		WP_010917970.1;YP_002515454.1;	45.1942	394.23
+A0A0H3C442	Uncharacterized protein		WP_024265521.1;YP_002515618.2;	178.666	130.457
+A0A0H3C3L9	Ribonuclease T2 (EC 3.1.27.-)		WP_010917920.1;YP_002515405.1;	33.8364	151.525
+A0A0H3C7Q5	Myo-inositol catabolism protein IolE	iolE	WP_010919177.1;YP_002516731.1;	20.5437	16.2917
+A0A0H3CER7	Cro/CI family transcriptional regulator		WP_010921103.1;YP_002518752.1;	132.935	336.666
+A0A0H3CC37	Uncharacterized protein		WP_012640706.1;YP_002518721.1;	196.824	210.888
+A0A0H3C980	Methyltransferase (EC 2.1.1.-)		WP_010919767.1;YP_002517351.1;	55.0392	43.6559
+A0A0H3C9V7	LacI-family transcriptional regulator		WP_010919916.1;YP_002517505.1;	333.936	193.355
+A0A0H3C7V5	Transposase (Transposase, IS4/5 family)		WP_012640094.1;YP_002516350.1;YP_002516722.1;YP_002518815.1;YP_002519082.1;	108.845	468.412
+A0A0H3C949	Transposase (Transposase DDE domain protein) (EC 1.2.1.27) (Transposase, DDE family)		WP_012640095.1;YP_002516351.1;YP_002516723.1;YP_002518814.1;YP_002519081.1;	49.1309	136.426
+A0A0H3C5Q5	Transposase (Transposase, IS2 family)		WP_010918403.1;YP_002515922.1;YP_002517746.1;YP_002518145.1;YP_002518201.1;	30.7701	91.3042
