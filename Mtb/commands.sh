@@ -2,13 +2,13 @@
 kallisto index -i m_tb m_tuberculosis_H37Rv_NC_000962_cds.fa
 
 # download data
-#fasterq-dump SRR9042978
-#fasterq-dump SRR9042979
-#fasterq-dump SRR9042980
-#
-#gzip SRR9042978.fastq
-#gzip SRR9042979.fastq
-#gzip SRR9042980.fastq
+fasterq-dump SRR9042978
+fasterq-dump SRR9042979
+fasterq-dump SRR9042980
+
+gzip SRR9042978.fastq
+gzip SRR9042979.fastq
+gzip SRR9042980.fastq
 
 kallisto quant --single -o wt_rep1 -i m_tb -t 6 -l 200 -s 25 SRR9042978.fastq.gz
 kallisto quant --single -o wt_rep2 -i m_tb -t 6 -l 200 -s 25 SRR9042979.fastq.gz

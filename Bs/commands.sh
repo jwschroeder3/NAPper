@@ -1,19 +1,19 @@
 ## set up kallisto
-#kallisto index -i bsub_168 bsub_168_NC_000964_cds.fa
-#
-## download data and run kallisto
-#for cond in 8h 24h; do
-#    echo $cond
-#    while IFS= read -r line; do
-#        acc=$(echo $line | cut -f1 -d' ')
-#        fasterq-dump $acc
-#        gzip ${acc}.fastq
-#        cond=$(echo $line | cut -f2 -d' ')
-#        rep=$(echo $line | cut -f3 -d' ')
-#        kallisto quant --single -o "${cond}_rep${rep}" -i bsub_168 \
-#            -t 6 -l 200 -s 25 ${acc}.fastq.gz
-#    done  < <(grep "${cond}" bsub_sample_info.txt)
-#done
+kallisto index -i bsub_168 bsub_168_NC_000964_cds.fa
+
+# download data and run kallisto
+for cond in 8h 24h; do
+    echo $cond
+    while IFS= read -r line; do
+        acc=$(echo $line | cut -f1 -d' ')
+        fasterq-dump $acc
+        gzip ${acc}.fastq
+        cond=$(echo $line | cut -f2 -d' ')
+        rep=$(echo $line | cut -f3 -d' ')
+        kallisto quant --single -o "${cond}_rep${rep}" -i bsub_168 \
+            -t 6 -l 200 -s 25 ${acc}.fastq.gz
+    done  < <(grep "${cond}" bsub_sample_info.txt)
+done
 
 # now merge tpm across replicates
 paste 8h_rep1/abundance.tsv 8h_rep2/abundance.tsv 8h_rep3/abundance.tsv 8h_rep4/abundance.tsv | awk 'BEGIN {OFS="\t"}; NR==1 {print $1, $5}; NR>1 {print $1, ($5 + $10 + $15 + $20) /4}' > 8h_average_tpm.txt

@@ -2,11 +2,11 @@
 kallisto index -i na1000 na1000_cds.fa
 
 # get the data
-#fasterq-dump SRR5772180
-#fasterq-dump SRR5772181
-#
-#gzip SRR5772180.fastq
-#gzip SRR5772181.fastq
+fasterq-dump SRR5772180
+fasterq-dump SRR5772181
+
+gzip SRR5772180.fastq
+gzip SRR5772181.fastq
 
 kallisto quant --single -o wt -i na1000 -t 6 -l 200 -s 25 SRR5772180.fastq.gz
 kallisto quant --single -o gapR_dep -i na1000 -t 6 -l 200 -s 25 SRR5772181.fastq.gz

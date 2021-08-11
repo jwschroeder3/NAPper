@@ -1,10 +1,4 @@
 # get the sequencing reads
-#wget https://sra-download.ncbi.nlm.nih.gov/traces/sra66/SRR/011717/SRR11998391
-#wget https://sra-download.ncbi.nlm.nih.gov/traces/sra50/SRR/011717/SRR11998392
-#wget https://sra-download.ncbi.nlm.nih.gov/traces/sra77/SRR/011717/SRR11998393
-#wget https://sra-download.ncbi.nlm.nih.gov/traces/sra48/SRR/011717/SRR11998412
-#wget https://sra-download.ncbi.nlm.nih.gov/traces/sra77/SRR/011717/SRR11998413
-#wget https://sra-download.ncbi.nlm.nih.gov/traces/sra47/SRR/011717/SRR11998414
 
 for acc in SRR11998391 SRR11998392 SRR11998393  SRR11998412 SRR11998413 SRR11998414 ; do
 	fasterq-dump $acc

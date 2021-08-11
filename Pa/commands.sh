@@ -1,10 +1,8 @@
 # download the data
-#ffq -t GSE GSE152295 > sra.json
-#
-#for acc in SRR11998448 SRR11998449 SRR11998450 SRR11998427 SRR11998428 SRR11998429; do
-#    fasterq-dump $acc
-#done
-#gzip *.fastq
+for acc in SRR11998448 SRR11998449 SRR11998450 SRR11998427 SRR11998428 SRR11998429; do
+    fasterq-dump $acc
+done
+gzip *.fastq
 
 # set up and run kallisto
 kallisto index -i PA01 GCF_000006765.1_ASM676v1_cds_from_genomic.fna

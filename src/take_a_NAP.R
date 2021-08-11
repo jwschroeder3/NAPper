@@ -1,7 +1,5 @@
 library(tidyverse)
 library(ggrepel)
-srcdir = 'src'
-source(file.path(srcdir,'helper_functions.R'))
 
 bact_direcs = c(
   'Bs', # Bacillus subtilis
