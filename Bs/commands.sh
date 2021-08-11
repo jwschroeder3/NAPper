@@ -30,14 +30,11 @@ grep -v target_id 24h_average_tpm.txt | sort -g --key=2 | tail -n $n_thresh > hi
 grep -f ../good_terms b_subtilis_UP000001570.tab | grep -v -f ../bad_terms | awk -F "\t" '{print $21}' | sed s/";"/"\n"/g | grep "\S" > target_list.txt
 
 # now get our real targets
-grep -h -f target_list.txt high_exp_8h.txt | awk '{print $1}' | cut -c 21-31 > 8h_nap_candidates_refseq.txt
-grep -h -f target_list.txt high_exp_24h.txt | awk '{print $1}' | cut -c 21-31 > 24h_nap_candidates_refseq.txt
-echo "uniprot_id;protein;gene;refseq" | sed s/";"/"\t"/g > 8h_nap_hits.txt
-grep -f 8h_nap_candidates_refseq.txt b_subtilis_UP000001570.tab | awk -F "\t" 'BEGIN {OFS="\t"}; {print $1, $4, $10, $21}' >> 8h_nap_hits.txt
-echo "uniprot_id;protein;gene;refseq" | sed s/";"/"\t"/g > 24h_nap_hits.txt
-grep -f 24h_nap_candidates_refseq.txt b_subtilis_UP000001570.tab | awk -F "\t" 'BEGIN {OFS="\t"}; {print $1, $4, $10, $21}' >> 24h_nap_hits.txt
+grep -h -f target_list.txt high_exp_8h.txt high_exp_24h.txt | awk '{print $1}' | cut -c 21-31 > union_nap_candidates_refseq.txt
+echo "uniprot_id;protein;gene;refseq" | sed s/";"/"\t"/g > union_nap_hits.txt
+grep -f union_nap_candidates_refseq.txt b_subtilis_UP000001570.tab | awk -F "\t" 'BEGIN {OFS="\t"}; {print $1, $4, $10, $21}' >> union_nap_hits.txt
 
 # and merge this back in with the expression data
-python ../add_expr_dat.py 8h_nap_hits.txt nap_hits_test.txt 8h_average_tpm.txt
+python ../add_expr_dat.py union_nap_hits.txt nap_hits_test.txt 8h_average_tpm.txt
 python ../add_expr_dat.py nap_hits_test.txt nap_hits_full.txt 24h_average_tpm.txt
 

@@ -1,12 +1,15 @@
 uniprot_id	protein	gene	refseq	wt_average_tpm.txt
+P9WF17	Antitoxin VapB35	vapB35	WP_003899100.1;YP_007410641.1;	124.354
 P9WKV1	Transcriptional regulator Rv0485		NP_214999.1;WP_003402361.1;	402.357
 P9WNR9	Nucleoid-associated protein Rv3716c		NP_218233.1;WP_003420408.1;	331.031
 P9WMC9	Uncharacterized HTH-type transcriptional regulator Rv1816		NP_216332.1;WP_003409205.1;	322.401
 P9WME5	Uncharacterized HTH-type transcriptional regulator Rv1830		NP_216346.1;WP_003409244.1;	416.348
 P9WHI3	Recombination protein RecR	recR	NP_218232.1;WP_003420407.1;	306.919
 P9WMH1	Iron-dependent repressor IdeR	ideR	NP_217227.1;WP_003413962.1;	603.188
+P9WJ87	Antitoxin MazE6	mazE6	WP_003410014.1;YP_007410673.1;	44.3639
 P9WIP7	Nucleoid-associated protein Lsr2	lsr2	NP_218114.1;WP_003419513.1;	695.22
 P9WGM5	Probable transcriptional regulatory protein NarL	narL	NP_215359.1;WP_003404388.1;	346.954
+P0CW31	Putative antitoxin VapB16	vapB16	WP_003903810.1;YP_007410918.1;	0.0
 P9WF43	Transcriptional regulator WhiB1	whiB1	NP_217735.1;WP_003416884.1;	3591.67
 P9WME7	Uncharacterized HTH-type transcriptional regulator Rv1828		NP_216344.1;WP_003409239.1;	444.003
 P9WGA5	Probable transcriptional regulatory protein Rv2603c		NP_217119.1;WP_003413464.1;	450.935
@@ -25,6 +28,9 @@ P9WNA5	ESX-5 secretion system protein EccC5 (ESX conserved component C5) (Type V
 P9WNB3	ESX-1 secretion system protein EccCa1 (ESX conserved component Ca1) (Snm1 secretory protein) (Type VII secretion system protein EccCa1) (T7SS protein EccCa1)	eccCa1	NP_218387.1;WP_003899738.1;	1106.53
 P9WHR7	LexA repressor (EC 3.4.21.88)	lexA	NP_217236.2;WP_003899448.1;	878.561
 P9WII1	Probable endoribonuclease MazF2 (EC 3.1.-.-) (Probable toxin MazF-mt4)	mazF2	NP_215173.1;WP_003403376.1;	1534.4
+P0CL60	Antitoxin MazE8	mazE8	WP_003903832.1;YP_007410963.1;	0.0
+P0CV93	Ribonuclease VapC16 (RNase VapC16) (EC 3.1.-.-) (Toxin VapC16)	vapC16	WP_010886140.1;YP_007410917.1;	16.6411
+P9WJ75	Antitoxin ParD2	parD2	WP_003411127.1;YP_007410825.1;	247.785
 O53353	Transcriptional regulator WhiB2 (Probable chaperone WhiB2)	whiB2	NP_217777.1;WP_003417079.1;	740.329
 P9WKT7	Putative DNA-binding protein Rv0500A		WP_003402437.1;YP_177624.1;	649.648
 O33333	Probable transposase		NP_217307.1;WP_003899482.1;	316.58

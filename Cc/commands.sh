@@ -26,13 +26,11 @@ grep -v target_id gapR_dep_tpm.txt | sort -g --key=2 | tail -n $n_thresh > high_
 grep -f ../good_terms c_crescentus_na1000.tab | grep -v -f ../bad_terms | awk -F "\t" '{print $21}' | sed s/";"/"\n"/g | grep "\S" > target_list.txt
 
 # now get our real targets
-grep -h -f target_list.txt high_exp_wt.txt high_exp_gapR_dep.txt | awk '{print $1}' | cut -c 21-31 > nap_candidates_refseq.txt
-echo "uniprot_id;protein;gene;refseq" | sed s/";"/"\t"/g > wt_nap_hits.txt
-grep -f nap_candidates_refseq.txt c_crescentus_na1000.tab | awk -F "\t" 'BEGIN {OFS="\t"}; {print $1, $4, $10, $21}' >> wt_nap_hits.txt
-echo "uniprot_id;protein;gene;refseq" | sed s/";"/"\t"/g > gapR_dep_nap_hits.txt
-grep -f nap_candidates_refseq.txt c_crescentus_na1000.tab | awk -F "\t" 'BEGIN {OFS="\t"}; {print $1, $4, $10, $21}' >> gapR_dep_nap_hits.txt
+grep -h -f target_list.txt high_exp_wt.txt high_exp_gapR_dep.txt | awk '{print $1}' | cut -c 21-32 > nap_candidates_refseq.txt
+echo "uniprot_id;protein;gene;refseq" | sed s/";"/"\t"/g > union_nap_hits.txt
+grep -f nap_candidates_refseq.txt c_crescentus_na1000.tab | awk -F "\t" 'BEGIN {OFS="\t"}; {print $1, $4, $10, $21}' >> union_nap_hits.txt
 
 # and merge this back in with the expression data
-python ../add_expr_dat.py wt_nap_hits.txt nap_hits_test.txt wt_tpm.txt
+python ../add_expr_dat.py union_nap_hits.txt nap_hits_test.txt wt_tpm.txt
 python ../add_expr_dat.py nap_hits_test.txt nap_hits_full.txt gapR_dep_tpm.txt
 

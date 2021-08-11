@@ -27,7 +27,7 @@ grep -v target_id wt_average_tpm.txt | sort -g --key=2 | tail -n $n_thresh > hig
 grep -f ../good_terms m_tb_ATCC_25618.tab | grep -v -f ../bad_terms | awk -F "\t" '{print $21}' | sed s/";"/"\n"/g | grep "\S" > target_list.txt
 
 # now get our real targets
-grep -h -f target_list.txt high_exp_wt.txt | awk '{print $1}' | cut -c 21-31 > nap_candidates_refseq.txt
+grep -h -f target_list.txt high_exp_wt.txt | awk '{print $1}' | cut -c 21-29 > nap_candidates_refseq.txt
 echo "uniprot_id;protein;gene;refseq" | sed s/";"/"\t"/g > nap_hits.txt
 grep -f nap_candidates_refseq.txt m_tb_ATCC_25618.tab | awk -F "\t" 'BEGIN {OFS="\t"}; {print $1, $4, $10, $21}' >> nap_hits.txt
 
