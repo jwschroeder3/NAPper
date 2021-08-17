@@ -34,3 +34,5 @@ grep -f nap_candidates_refseq.txt m_tb_ATCC_25618.tab | awk -F "\t" 'BEGIN {OFS=
 # and merge this back in with the expression data
 python ../add_expr_dat.py nap_hits.txt nap_hits_full.txt wt_average_tpm.txt
 
+head -n 1 m_tb_ATCC_25618.tab | awk -F "\t" 'BEGIN {OFS="\t"}; {print $1,$4,$5,$8,$10,$17,$21}' > kriel_uniprot_info.txt
+grep -f loci_from_Kriel m_tb_ATCC_25618.tab | awk -F "\t" 'BEGIN {OFS="\t"}; {print $1,$4,$5,$8,$10,$17,$21}' >> kriel_uniprot_info.txt
